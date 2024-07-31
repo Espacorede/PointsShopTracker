@@ -1,9 +1,9 @@
 {
     "count": {
-        "avatar": 1791,
-        "mini": 780,
-        "background": 986,
-        "frame": 1156,
+        "avatar": 1792,
+        "mini": 782,
+        "background": 988,
+        "frame": 1160,
         "sticker": 1541,
         "gameprofile": 92,
         "keyboard": 8,
@@ -15651,6 +15651,15 @@
                 "cost": "0",
                 "created": 1722294069,
                 "updated": 1722294083
+            },
+            {
+                "id": 301099,
+                "title": "Yamat Avatar",
+                "description": "Yamat Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1280930/c13c4073fdc76d3b452498fd750518948d0fe02f.gif",
+                "cost": "3000",
+                "created": 1722266544,
+                "updated": 1722404694
             }
         ],
         "mini": [
@@ -22545,6 +22554,24 @@
                 "cost": "2000",
                 "created": 1721043314,
                 "updated": 1722332777
+            },
+            {
+                "id": 301123,
+                "title": "Second animated miniback",
+                "description": "SC_Maback_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2487130/c694160390972a49389e22b1196f92059856d63e.webm",
+                "cost": "2000",
+                "created": 1721903533,
+                "updated": 1722415063
+            },
+            {
+                "id": 301122,
+                "title": "First animated miniback",
+                "description": "SC_Maback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2487130/90efe4fcd6d7310fb0c956b323f27fd1cfd80763.webm",
+                "cost": "2000",
+                "created": 1721903478,
+                "updated": 1722415063
             }
         ],
         "background": [
@@ -31258,6 +31285,24 @@
                 "cost": "2000",
                 "created": 1721043255,
                 "updated": 1722332777
+            },
+            {
+                "id": 301120,
+                "title": "First animated back",
+                "description": "SC_Aback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2487130/d1a276a718328b003853627701684370f4f59cdc.webm",
+                "cost": "2000",
+                "created": 1721903428,
+                "updated": 1722415063
+            },
+            {
+                "id": 301121,
+                "title": "Second animated back",
+                "description": "SC_Aback_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2487130/1a3b62d9f19867ac2a9b93648feef74a7870fed9.webm",
+                "cost": "2000",
+                "created": 1721903389,
+                "updated": 1722415063
             }
         ],
         "frame": [
@@ -41434,6 +41479,42 @@
                 "cost": "2000",
                 "created": 1722012984,
                 "updated": 1722332777
+            },
+            {
+                "id": 301127,
+                "title": "Lightning Frame",
+                "description": "SC_Frame_4",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2487130/f4b08b7c0fdcc2fd6ea68514345824a51e479aaa.png",
+                "cost": "2000",
+                "created": 1721903797,
+                "updated": 1722415063
+            },
+            {
+                "id": 301126,
+                "title": "Rose Frame",
+                "description": "SC_Frame_3",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2487130/d9ca48f7a53322c7dd92e67128e6a5a5c779ccb7.png",
+                "cost": "2000",
+                "created": 1721903719,
+                "updated": 1722415063
+            },
+            {
+                "id": 301125,
+                "title": "Yellow Frame",
+                "description": "SC_Frame_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2487130/09e2954b47143c0dce66e6452f468643a30f93c3.png",
+                "cost": "2000",
+                "created": 1721903650,
+                "updated": 1722415063
+            },
+            {
+                "id": 301124,
+                "title": "Blue Frame",
+                "description": "SC_Frame_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2487130/3ea606e95bd3763f444b523c8912a10a1e016bc9.png",
+                "cost": "2000",
+                "created": 1721903597,
+                "updated": 1722415063
             }
         ],
         "sticker": [
@@ -55994,6 +56075,7 @@
             78780,
             78779,
             78778,
+            301099,
             300217,
             300186,
             300185,
@@ -57795,6 +57877,8 @@
             78807,
             78806,
             78805,
+            301123,
+            301122,
             300933,
             300932,
             299351,
@@ -58578,6 +58662,8 @@
             78811,
             78810,
             78809,
+            301121,
+            301120,
             300931,
             300930,
             300757,
@@ -59560,6 +59646,10 @@
             78767,
             78766,
             78765,
+            301127,
+            301126,
+            301125,
+            301124,
             300937,
             300936,
             300935,
