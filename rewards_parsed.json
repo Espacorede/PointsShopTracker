@@ -1,6 +1,6 @@
 {
     "count": {
-        "avatar": 1792,
+        "avatar": 1793,
         "mini": 782,
         "background": 988,
         "frame": 1160,
@@ -15660,6 +15660,15 @@
                 "cost": "3000",
                 "created": 1722266544,
                 "updated": 1722404694
+            },
+            {
+                "id": 301235,
+                "title": "Tyrannosaurus Rex",
+                "description": "Tyrannosaurus Rex",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/752900/8e25a39c0626913c88a02e2f16ef3d38e202788d.gif",
+                "cost": "3000",
+                "created": 1722367802,
+                "updated": 1722457673
             }
         ],
         "mini": [
@@ -56075,6 +56084,7 @@
             78780,
             78779,
             78778,
+            301235,
             301099,
             300217,
             300186,
