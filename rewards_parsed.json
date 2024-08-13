@@ -1,9 +1,9 @@
 {
     "count": {
-        "avatar": 1814,
-        "mini": 787,
-        "background": 1002,
-        "frame": 1167,
+        "avatar": 1815,
+        "mini": 789,
+        "background": 1004,
+        "frame": 1171,
         "sticker": 1541,
         "gameprofile": 93,
         "keyboard": 8,
@@ -15858,6 +15858,15 @@
                 "cost": "3000",
                 "created": 1720102870,
                 "updated": 1723038768
+            },
+            {
+                "id": 303542,
+                "title": "Living Together",
+                "description": "Living Together",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2593370/59a8f707049a6ba31d814eace41dbc03a192006b.gif",
+                "cost": "3000",
+                "created": 1721359695,
+                "updated": 1723490638
             }
         ],
         "mini": [
@@ -22815,6 +22824,24 @@
                 "cost": "2000",
                 "created": 1720100979,
                 "updated": 1723038768
+            },
+            {
+                "id": 303683,
+                "title": "Second Animated Miniback",
+                "description": "LG_Maback_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3073370/75971c62fa356e62ba4c496a5b946e842d7802e8.webm",
+                "cost": "2000",
+                "created": 1722939834,
+                "updated": 1723549960
+            },
+            {
+                "id": 303682,
+                "title": "First Animated Miniback",
+                "description": "LG_Maback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3073370/f63935baf25ed3c6e533d5113352702c41e4be78.webm",
+                "cost": "2000",
+                "created": 1722939780,
+                "updated": 1723549960
             }
         ],
         "background": [
@@ -31672,6 +31699,24 @@
                 "cost": "2000",
                 "created": 1719498508,
                 "updated": 1723242225
+            },
+            {
+                "id": 303681,
+                "title": "Second Animated Back",
+                "description": "LG_Aback_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3073370/5a2fe41b27589e38a99a6651aa7ec56354d0432e.webm",
+                "cost": "2000",
+                "created": 1723451036,
+                "updated": 1723549960
+            },
+            {
+                "id": 303680,
+                "title": "First Animated Back",
+                "description": "LG_Aback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3073370/8123db756c67215a22bdbb3dfb7b3b9ea4f0b11a.webm",
+                "cost": "2000",
+                "created": 1723450953,
+                "updated": 1723549960
             }
         ],
         "frame": [
@@ -41947,6 +41992,42 @@
                 "cost": "2000",
                 "created": 1720100455,
                 "updated": 1723038768
+            },
+            {
+                "id": 303687,
+                "title": "Green Frame",
+                "description": "LG_Frame_4",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3073370/9f1557aa76befc4e387733331dff7129fe1349e1.png",
+                "cost": "2000",
+                "created": 1723451264,
+                "updated": 1723549960
+            },
+            {
+                "id": 303686,
+                "title": "Blue Frame",
+                "description": "LG_Frame_3",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3073370/7089f92639dc98f1b99ad4378a81166b7ccf4339.png",
+                "cost": "2000",
+                "created": 1723451220,
+                "updated": 1723549960
+            },
+            {
+                "id": 303685,
+                "title": "Red Frame",
+                "description": "LG_Frame_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3073370/a52c56118957e87b64e78187e6c58d9d99e89c5c.png",
+                "cost": "2000",
+                "created": 1723451144,
+                "updated": 1723549960
+            },
+            {
+                "id": 303684,
+                "title": "Rose Frame",
+                "description": "LG_Frame_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3073370/fcfffb9816ae888be9558804d29daad7d76ad2be.png",
+                "cost": "2000",
+                "created": 1723451099,
+                "updated": 1723549960
             }
         ],
         "sticker": [
@@ -56516,6 +56597,7 @@
             78780,
             78779,
             78778,
+            303542,
             302640,
             302639,
             302638,
@@ -58340,6 +58422,8 @@
             78807,
             78806,
             78805,
+            303683,
+            303682,
             302560,
             302559,
             302526,
@@ -59130,6 +59214,8 @@
             78811,
             78810,
             78809,
+            303681,
+            303680,
             303137,
             303136,
             303135,
@@ -60128,6 +60214,10 @@
             78767,
             78766,
             78765,
+            303687,
+            303686,
+            303685,
+            303684,
             302561,
             302551,
             302072,
