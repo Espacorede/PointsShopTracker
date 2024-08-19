@@ -1,8 +1,8 @@
 {
     "count": {
         "avatar": 1815,
-        "mini": 789,
-        "background": 1004,
+        "mini": 790,
+        "background": 1005,
         "frame": 1171,
         "sticker": 1541,
         "gameprofile": 93,
@@ -22842,6 +22842,15 @@
                 "cost": "2000",
                 "created": 1722939780,
                 "updated": 1723549960
+            },
+            {
+                "id": 304761,
+                "title": "Wavedashing to Shinecoast City",
+                "description": "Wavedashing to Shinecoast City",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/787070/a12435b3bdca2416370b7d92661978179c82c09e.webm",
+                "cost": "2000",
+                "created": 1723704183,
+                "updated": 1724050686
             }
         ],
         "background": [
@@ -31717,6 +31726,15 @@
                 "cost": "2000",
                 "created": 1723450953,
                 "updated": 1723549960
+            },
+            {
+                "id": 304748,
+                "title": "Chizuru in Shinecoast City",
+                "description": "Chizuru in Shinecoast City",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/787070/22151511912509a1fc55d69280ae401d62a89afc.webm",
+                "cost": "2000",
+                "created": 1723706702,
+                "updated": 1724050686
             }
         ],
         "frame": [
@@ -58422,6 +58440,7 @@
             78807,
             78806,
             78805,
+            304761,
             303683,
             303682,
             302560,
@@ -59214,6 +59233,7 @@
             78811,
             78810,
             78809,
+            304748,
             303681,
             303680,
             303137,
