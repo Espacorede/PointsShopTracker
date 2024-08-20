@@ -1,10 +1,10 @@
 {
     "count": {
-        "avatar": 1815,
+        "avatar": 1816,
         "mini": 790,
         "background": 1005,
-        "frame": 1171,
-        "sticker": 1541,
+        "frame": 1172,
+        "sticker": 1542,
         "gameprofile": 93,
         "keyboard": 8,
         "startup": 29
@@ -15867,6 +15867,15 @@
                 "cost": "3000",
                 "created": 1721359695,
                 "updated": 1723490638
+            },
+            {
+                "id": 302102,
+                "title": "Groove Track",
+                "description": "Groove Track",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3099170/0c20252ca8950d86d8facb3b1d61eddec5c379a8.gif",
+                "cost": "0",
+                "created": 1723577960,
+                "updated": 1723763931
             }
         ],
         "mini": [
@@ -42046,6 +42055,15 @@
                 "cost": "2000",
                 "created": 1723451099,
                 "updated": 1723549960
+            },
+            {
+                "id": 302103,
+                "title": "Rhythm Pulse",
+                "description": "Rhythm Pulse",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3099170/2e57ffef54e7fd81cd620570a405467d02d53093.png",
+                "cost": "0",
+                "created": 1723577960,
+                "updated": 1723763931
             }
         ],
         "sticker": [
@@ -55488,6 +55506,15 @@
                 "cost": "0",
                 "created": 1722294069,
                 "updated": 1722294083
+            },
+            {
+                "id": 302101,
+                "title": "Beat Mix",
+                "description": "Beat Mix",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3099170/cad4d31946733fd01dedbde39f48a8c3eb3ff8cc.png",
+                "cost": "0",
+                "created": 1723577985,
+                "updated": 1723763931
             }
         ],
         "gameprofile": [
@@ -56625,6 +56652,7 @@
             302567,
             302528,
             302527,
+            302102,
             302032,
             302031,
             302030,
@@ -60240,6 +60268,7 @@
             303684,
             302561,
             302551,
+            302103,
             302072,
             302071,
             302070,
@@ -61491,6 +61520,7 @@
             78770,
             78769,
             78768,
+            302101,
             300216,
             299581,
             299580,
