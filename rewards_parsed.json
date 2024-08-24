@@ -1,9 +1,9 @@
 {
     "count": {
         "avatar": 1819,
-        "mini": 791,
-        "background": 1006,
-        "frame": 1173,
+        "mini": 793,
+        "background": 1008,
+        "frame": 1176,
         "sticker": 1544,
         "gameprofile": 93,
         "keyboard": 8,
@@ -22896,6 +22896,24 @@
                 "cost": "2000",
                 "created": 1723824353,
                 "updated": 1724100705
+            },
+            {
+                "id": 305749,
+                "title": "Second animated miniback",
+                "description": "SBG_Maback_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3009830/f78ca1a0fbc70cfa029834983195ad47d3f29136.webm",
+                "cost": "2000",
+                "created": 1723710754,
+                "updated": 1724431767
+            },
+            {
+                "id": 305748,
+                "title": "First animated miniback",
+                "description": "SBG_Maback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3009830/4fbfa4afeebf66bc1133aaeecadbcb3909c67408.webm",
+                "cost": "2000",
+                "created": 1723710700,
+                "updated": 1724431767
             }
         ],
         "background": [
@@ -31789,6 +31807,24 @@
                 "cost": "2000",
                 "created": 1723824296,
                 "updated": 1724100705
+            },
+            {
+                "id": 305747,
+                "title": "Second animated back",
+                "description": "SBG_Back_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3009830/a730c2ca87aff1b912dd93a42d641c97a3654963.webm",
+                "cost": "2000",
+                "created": 1723710630,
+                "updated": 1724431767
+            },
+            {
+                "id": 305746,
+                "title": "First animated back",
+                "description": "SBG_Aback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3009830/3a68f92c9e954fa9ddc15d851a533fdbc7c173ce.webm",
+                "cost": "2000",
+                "created": 1723710412,
+                "updated": 1724431767
             }
         ],
         "frame": [
@@ -42118,6 +42154,33 @@
                 "cost": "2000",
                 "created": 1723824368,
                 "updated": 1724100705
+            },
+            {
+                "id": 305752,
+                "title": "Gold Frame",
+                "description": "SBG_Frame_4",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3009830/4a3ca0eeead91a5e24857d1088b193f8e4717006.png",
+                "cost": "2000",
+                "created": 1724098817,
+                "updated": 1724431767
+            },
+            {
+                "id": 305751,
+                "title": "Green Frame",
+                "description": "SBG_Frame_3",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3009830/8bd27da33bb3170984ace43b2f4d058622c14022.png",
+                "cost": "2000",
+                "created": 1724098622,
+                "updated": 1724431767
+            },
+            {
+                "id": 305750,
+                "title": "Blue Farame",
+                "description": "SBG_Farame_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3009830/06024117a647630cf89eb0a5aa77d3e125c818de.png",
+                "cost": "2000",
+                "created": 1724098410,
+                "updated": 1724431767
             }
         ],
         "sticker": [
@@ -58543,6 +58606,8 @@
             78807,
             78806,
             78805,
+            305749,
+            305748,
             304908,
             304761,
             303683,
@@ -59337,6 +59402,8 @@
             78811,
             78810,
             78809,
+            305747,
+            305746,
             304907,
             304748,
             303681,
@@ -60339,6 +60406,9 @@
             78767,
             78766,
             78765,
+            305752,
+            305751,
+            305750,
             304909,
             303687,
             303686,
