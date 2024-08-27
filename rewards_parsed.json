@@ -2,9 +2,9 @@
     "count": {
         "avatar": 1819,
         "mini": 793,
-        "background": 1008,
+        "background": 1013,
         "frame": 1176,
-        "sticker": 1544,
+        "sticker": 1554,
         "gameprofile": 93,
         "keyboard": 8,
         "startup": 29
@@ -31825,6 +31825,51 @@
                 "cost": "2000",
                 "created": 1723710412,
                 "updated": 1724431767
+            },
+            {
+                "id": 306299,
+                "title": "Funfi  background",
+                "description": "Funfi background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/d9d5c4c3a437a18767c0682dfcd7d08347028b50.webm",
+                "cost": "2000",
+                "created": 1723111452,
+                "updated": 1724692482
+            },
+            {
+                "id": 306301,
+                "title": "Sweeties background",
+                "description": "Sweeties background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/82ef68a893ab25e3c2fa9ea2adfe160e26aaef3d.webm",
+                "cost": "2000",
+                "created": 1721679270,
+                "updated": 1724692482
+            },
+            {
+                "id": 306300,
+                "title": "Seraphina background",
+                "description": "Seraphina background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/2b0aa348d0359fea8db37160298db88c43327e1e.webm",
+                "cost": "2000",
+                "created": 1721679209,
+                "updated": 1724692482
+            },
+            {
+                "id": 306298,
+                "title": "Fiesta background",
+                "description": "Fiesta background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/5de1cb362907ba137e09b96b31f99b80db4447d2.webm",
+                "cost": "2000",
+                "created": 1721679091,
+                "updated": 1724692482
+            },
+            {
+                "id": 306297,
+                "title": "Athena background",
+                "description": "Athena background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/7d845a16ec26de660e086a04722e6caf28903a43.webm",
+                "cost": "2000",
+                "created": 1721679027,
+                "updated": 1724692482
             }
         ],
         "frame": [
@@ -55650,6 +55695,96 @@
                 "cost": "1000",
                 "created": 1723824325,
                 "updated": 1724100705
+            },
+            {
+                "id": 306308,
+                "title": ":mansplainer:",
+                "description": "Mansplainer",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/9b554206e8512cbadbc259666b2d1fd89e086542.png",
+                "cost": "1000",
+                "created": 1719496203,
+                "updated": 1724692482
+            },
+            {
+                "id": 306309,
+                "title": ":bae:",
+                "description": "Bae",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/752b4040e24b75a838b0e37c34d3ec5d182aae74.png",
+                "cost": "1000",
+                "created": 1719495689,
+                "updated": 1724692482
+            },
+            {
+                "id": 306307,
+                "title": ":gotyou:",
+                "description": "Got you",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/da5c8023dadb5e09ae5950bc0ecb27281e2bc50b.png",
+                "cost": "1000",
+                "created": 1719495537,
+                "updated": 1724692482
+            },
+            {
+                "id": 306311,
+                "title": ":whafa:",
+                "description": "Wha Fa",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/05d0460b17f11c0e8400478be247f885c224f490.png",
+                "cost": "1000",
+                "created": 1719495478,
+                "updated": 1724692482
+            },
+            {
+                "id": 306310,
+                "title": ":ups:",
+                "description": "Ups",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/2c867a72791ccb37513b2b1efdfb99e0a5e40248.png",
+                "cost": "1000",
+                "created": 1719495442,
+                "updated": 1724692482
+            },
+            {
+                "id": 306306,
+                "title": ":fofo:",
+                "description": "Fofo",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/68e19a8386caa02f69c70f59f359fe0bb596c8b8.png",
+                "cost": "1000",
+                "created": 1719495408,
+                "updated": 1724692482
+            },
+            {
+                "id": 306305,
+                "title": ":ehh:",
+                "description": "Ehh",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/d8bcc7de7451a3afc481bead7cc9f482f96673cb.png",
+                "cost": "1000",
+                "created": 1719495384,
+                "updated": 1724692482
+            },
+            {
+                "id": 306304,
+                "title": ":comehere:",
+                "description": "Come here",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/8f0521fa25d5070798077e2b84186e44b9a9d3d2.png",
+                "cost": "1000",
+                "created": 1719495360,
+                "updated": 1724692482
+            },
+            {
+                "id": 306303,
+                "title": ":caramba:",
+                "description": "Caramba",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/7fbfaff1b80b28760fb7330fbfaca8c3e0e60c4b.png",
+                "cost": "1000",
+                "created": 1719495317,
+                "updated": 1724692482
+            },
+            {
+                "id": 306302,
+                "title": ":babaka:",
+                "description": "Babaka",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2449710/fc41c3887c7848e79e4fa70946a7abadaa10de96.png",
+                "cost": "1000",
+                "created": 1719495282,
+                "updated": 1724692482
             }
         ],
         "gameprofile": [
@@ -59402,6 +59537,11 @@
             78811,
             78810,
             78809,
+            306301,
+            306300,
+            306299,
+            306298,
+            306297,
             305747,
             305746,
             304907,
@@ -61668,6 +61808,16 @@
             78770,
             78769,
             78768,
+            306311,
+            306310,
+            306309,
+            306308,
+            306307,
+            306306,
+            306305,
+            306304,
+            306303,
+            306302,
             304914,
             304911,
             302101,
