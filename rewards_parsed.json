@@ -1,6 +1,6 @@
 {
     "count": {
-        "avatar": 1819,
+        "avatar": 1823,
         "mini": 793,
         "background": 1013,
         "frame": 1176,
@@ -15903,6 +15903,42 @@
                 "cost": "3000",
                 "created": 1723824382,
                 "updated": 1724100705
+            },
+            {
+                "id": 306601,
+                "title": "3D Shizu",
+                "description": "3D Shizu",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2738670/dc8a798029c15f4404ad55c22ce1fbd68833790b.gif",
+                "cost": "3000",
+                "created": 1721684408,
+                "updated": 1724791443
+            },
+            {
+                "id": 306598,
+                "title": "3D Kyva",
+                "description": "3D Kyva",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2738670/c2954359475d7cef310b0dedacbee70f627e4843.gif",
+                "cost": "3000",
+                "created": 1721684384,
+                "updated": 1724791443
+            },
+            {
+                "id": 306599,
+                "title": "3D Aio",
+                "description": "3D Aio",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2738670/f37ba14bfc966d9e8e91da2a34c95126875eb91c.gif",
+                "cost": "3000",
+                "created": 1721684358,
+                "updated": 1724791443
+            },
+            {
+                "id": 306600,
+                "title": "3D Adelaide",
+                "description": "3D Adelaide",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2738670/014f53e6c6fe6ef3dcc74c26941711d7e9e4a949.gif",
+                "cost": "3000",
+                "created": 1721684327,
+                "updated": 1724791443
             }
         ],
         "mini": [
@@ -56912,6 +56948,10 @@
             78780,
             78779,
             78778,
+            306601,
+            306600,
+            306599,
+            306598,
             304913,
             304912,
             304910,
