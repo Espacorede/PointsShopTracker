@@ -1,9 +1,9 @@
 {
     "count": {
-        "avatar": 1824,
+        "avatar": 1828,
         "mini": 795,
-        "background": 1015,
-        "frame": 1181,
+        "background": 1016,
+        "frame": 1184,
         "sticker": 1555,
         "gameprofile": 93,
         "keyboard": 8,
@@ -15948,6 +15948,42 @@
                 "cost": "0",
                 "created": 1724791233,
                 "updated": 1725297953
+            },
+            {
+                "id": 307908,
+                "title": "Lili",
+                "description": "Lili",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2308870/b0b01f2d819688be6415ffd16f296ad31a14d066.gif",
+                "cost": "3000",
+                "created": 1719938469,
+                "updated": 1725368059
+            },
+            {
+                "id": 307907,
+                "title": "Faye",
+                "description": "Faye",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2308870/efe8c312b370572aae3c4c9ea42b543869012aaa.gif",
+                "cost": "3000",
+                "created": 1719938424,
+                "updated": 1725368059
+            },
+            {
+                "id": 307906,
+                "title": "Inge",
+                "description": "Inge",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2308870/7f3ee7380d986d24ae1b3256d34bbc03301a4aa2.gif",
+                "cost": "3000",
+                "created": 1719938364,
+                "updated": 1725368059
+            },
+            {
+                "id": 307905,
+                "title": "Ulvi",
+                "description": "Ulvi",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2308870/a5e6b9f6d59d9e7a5cac3b0dfeb09f602adf5db6.gif",
+                "cost": "3000",
+                "created": 1719938046,
+                "updated": 1725368059
             }
         ],
         "mini": [
@@ -31951,6 +31987,15 @@
                 "cost": "2000",
                 "created": 1724851795,
                 "updated": 1725004538
+            },
+            {
+                "id": 307903,
+                "title": "Red moon and Ulvi",
+                "description": "Red moon",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2308870/d7ff3584e45802a919338e9ce21adaacbf3cd051.webm",
+                "cost": "2000",
+                "created": 1719936498,
+                "updated": 1725368059
             }
         ],
         "frame": [
@@ -42352,6 +42397,33 @@
                 "cost": "0",
                 "created": 1724791233,
                 "updated": 1725297953
+            },
+            {
+                "id": 307904,
+                "title": "Caution! High-risk area.",
+                "description": "Poison",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2308870/f2d2310ee3432011f648124c4b62217fc4d3e7bf.png",
+                "cost": "2000",
+                "created": 1719936922,
+                "updated": 1725368059
+            },
+            {
+                "id": 307902,
+                "title": "Dark memories",
+                "description": "Dark memories",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2308870/815ed9b08cfa0d82cbbb5442f88c2fba19480288.png",
+                "cost": "2000",
+                "created": 1719935542,
+                "updated": 1725368059
+            },
+            {
+                "id": 307901,
+                "title": "The dark crystals",
+                "description": "The dark crystals",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2308870/34863e372630fb2a1fc82c4d9dd9d03daadb55e5.png",
+                "cost": "2000",
+                "created": 1719935458,
+                "updated": 1725368059
             }
         ],
         "sticker": [
@@ -57047,6 +57119,10 @@
             78780,
             78779,
             78778,
+            307908,
+            307907,
+            307906,
+            307905,
             306601,
             306600,
             306599,
@@ -59679,6 +59755,7 @@
             78811,
             78810,
             78809,
+            307903,
             307148,
             307147,
             306301,
@@ -60690,6 +60767,9 @@
             78767,
             78766,
             78765,
+            307904,
+            307902,
+            307901,
             307146,
             307145,
             307144,
