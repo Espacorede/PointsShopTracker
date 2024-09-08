@@ -7,7 +7,7 @@
         "sticker": 1557,
         "gameprofile": 93,
         "keyboard": 8,
-        "startup": 29
+        "startup": 30
     },
     "data": {
         "avatar": [
@@ -57468,6 +57468,15 @@
                 "cost": "3000",
                 "created": 1711536811,
                 "updated": 1713802819
+            },
+            {
+                "id": 308877,
+                "title": "Harry Potter: Quidditch Champions Snitch Startup",
+                "description": "Harry Potter: Quidditch Champions Snitch Startup",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2878600/04d98aad046ce0e2797a8d57c5990ea3e319cce9.webm",
+                "cost": "3000",
+                "created": 1725064939,
+                "updated": 1725728325
             }
         ]
     },
@@ -64006,6 +64015,7 @@
             159997
         ],
         "startup": [
+            308877,
             282758,
             262446,
             252799,
