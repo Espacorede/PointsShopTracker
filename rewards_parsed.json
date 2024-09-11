@@ -1,9 +1,9 @@
 {
     "count": {
-        "avatar": 1844,
-        "mini": 801,
-        "background": 1024,
-        "frame": 1192,
+        "avatar": 1850,
+        "mini": 803,
+        "background": 1026,
+        "frame": 1197,
         "sticker": 1557,
         "gameprofile": 93,
         "keyboard": 8,
@@ -16128,6 +16128,60 @@
                 "cost": "3000",
                 "created": 1724439552,
                 "updated": 1725499180
+            },
+            {
+                "id": 309674,
+                "title": "Tom Avatar",
+                "description": "Tom Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1190970/88e227230506a44dfab17b8812550bc31e3bba9b.gif",
+                "cost": "3000",
+                "created": 1721741136,
+                "updated": 1726057615
+            },
+            {
+                "id": 309673,
+                "title": "Reva Avatar",
+                "description": "Reva Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1190970/bdd7a1407726f153b13d3d96f57aca65967b7cd3.gif",
+                "cost": "3000",
+                "created": 1721741092,
+                "updated": 1726057615
+            },
+            {
+                "id": 309672,
+                "title": "Love Avatar",
+                "description": "Love Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1190970/fdc5302b461b6bd92da2d7c1a6a93d8bfdb7d9c3.gif",
+                "cost": "3000",
+                "created": 1721741068,
+                "updated": 1726057615
+            },
+            {
+                "id": 309671,
+                "title": "June Avatar",
+                "description": "June Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1190970/1ae167fa53a309cc11822b6af82e9bd01a79e36b.gif",
+                "cost": "3000",
+                "created": 1721741039,
+                "updated": 1726057615
+            },
+            {
+                "id": 309670,
+                "title": "Gladys Avatar",
+                "description": "Gladys Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1190970/bbca443bd98ad5879494498ff65fd7798e9d94a0.gif",
+                "cost": "3000",
+                "created": 1721740874,
+                "updated": 1726057615
+            },
+            {
+                "id": 309669,
+                "title": "Bessie Avatar",
+                "description": "Bessie Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1190970/af9fa05f4af085c58c78f44c40befd2a623ce7ce.gif",
+                "cost": "3000",
+                "created": 1721740749,
+                "updated": 1726057615
             }
         ],
         "mini": [
@@ -23211,6 +23265,24 @@
                 "cost": "2000",
                 "created": 1724168533,
                 "updated": 1725524645
+            },
+            {
+                "id": 309405,
+                "title": "Awersome Animated Miniback",
+                "description": "WS_Maback_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3103330/c32009a4476861c88940ecbfc558c8ef070e1fbe.webm",
+                "cost": "2000",
+                "created": 1725538708,
+                "updated": 1725972557
+            },
+            {
+                "id": 309404,
+                "title": "Cool Animated Miniback",
+                "description": "WS_Maback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3103330/a313d1373fbb82a6c2380cb0b3981a7ef6fb060a.webm",
+                "cost": "2000",
+                "created": 1725538639,
+                "updated": 1725972557
             }
         ],
         "background": [
@@ -32266,6 +32338,24 @@
                 "cost": "2000",
                 "created": 1724168289,
                 "updated": 1725524645
+            },
+            {
+                "id": 309403,
+                "title": "Awersome Animated Back",
+                "description": "WS_Aback_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3103330/00036a71b336a58f73ad414a011796fd8bd32026.webm",
+                "cost": "2000",
+                "created": 1725538578,
+                "updated": 1725972557
+            },
+            {
+                "id": 309402,
+                "title": "Cool Animated Back",
+                "description": "WS_Aback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3103330/ec5cecfd987f2f7ec1b393f9c5d48c290a500105.webm",
+                "cost": "2000",
+                "created": 1725538162,
+                "updated": 1725972557
             }
         ],
         "frame": [
@@ -42766,6 +42856,51 @@
                 "cost": "2000",
                 "created": 1724168711,
                 "updated": 1725524645
+            },
+            {
+                "id": 309401,
+                "title": "Green Frame",
+                "description": "WS_Frame_4",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3103330/01f63156fecf85852f57be9bc427beb490d66394.png",
+                "cost": "2000",
+                "created": 1725362769,
+                "updated": 1725972557
+            },
+            {
+                "id": 309399,
+                "title": "Pink Frame",
+                "description": "WS_Frame_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3103330/ab9ef486da2346f675e72e3a0e0a7c4a552dd694.png",
+                "cost": "2000",
+                "created": 1725362703,
+                "updated": 1725972557
+            },
+            {
+                "id": 309400,
+                "title": "Purple Frame",
+                "description": "WS_Frame_3",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3103330/d2b1815d1744390a0dbf4c2f723e3ed1448c4f7e.png",
+                "cost": "2000",
+                "created": 1725362674,
+                "updated": 1725972557
+            },
+            {
+                "id": 309398,
+                "title": "Ligt Red Frame",
+                "description": "WS_Frame_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3103330/5f6dcdf9014bce40e3785e58877f4c74295447c2.png",
+                "cost": "2000",
+                "created": 1725362554,
+                "updated": 1725972557
+            },
+            {
+                "id": 309675,
+                "title": "Painted Frame",
+                "description": "Painted Frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1190970/a8851fba76038770d9927ee512b386bc2c7f1e93.png",
+                "cost": "2000",
+                "created": 1721739703,
+                "updated": 1726057615
             }
         ],
         "sticker": [
@@ -57488,6 +57623,12 @@
             78780,
             78779,
             78778,
+            309674,
+            309673,
+            309672,
+            309671,
+            309670,
+            309669,
             308369,
             308368,
             308367,
@@ -59342,6 +59483,8 @@
             78807,
             78806,
             78805,
+            309405,
+            309404,
             308323,
             308322,
             308265,
@@ -60146,6 +60289,8 @@
             78811,
             78810,
             78809,
+            309403,
+            309402,
             308374,
             308373,
             308372,
@@ -61166,6 +61311,11 @@
             78767,
             78766,
             78765,
+            309675,
+            309401,
+            309400,
+            309399,
+            309398,
             308327,
             308326,
             308325,
