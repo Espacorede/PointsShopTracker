@@ -3,7 +3,7 @@
         "avatar": 1850,
         "mini": 803,
         "background": 1026,
-        "frame": 1197,
+        "frame": 1198,
         "sticker": 1557,
         "gameprofile": 93,
         "keyboard": 8,
@@ -42901,6 +42901,15 @@
                 "cost": "2000",
                 "created": 1721739703,
                 "updated": 1726057615
+            },
+            {
+                "id": 310014,
+                "title": "win7",
+                "description": "win7",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2726450/bf774b4d0d5c992154cc9ea922e061d18cb29558.apng",
+                "cost": "2000",
+                "created": 1725511941,
+                "updated": 1726185908
             }
         ],
         "sticker": [
@@ -61311,6 +61320,7 @@
             78767,
             78766,
             78765,
+            310014,
             309675,
             309401,
             309400,
