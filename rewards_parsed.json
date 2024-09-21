@@ -1,9 +1,9 @@
 {
     "count": {
         "avatar": 1863,
-        "mini": 811,
-        "background": 1036,
-        "frame": 1210,
+        "mini": 813,
+        "background": 1040,
+        "frame": 1214,
         "sticker": 1575,
         "gameprofile": 93,
         "keyboard": 8,
@@ -23472,6 +23472,24 @@
                 "cost": "2000",
                 "created": 1724920729,
                 "updated": 1726710754
+            },
+            {
+                "id": 311850,
+                "title": "Second Animated Miniback",
+                "description": "ESS_Maback_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3044550/bb0dcdf37ce4035972ebd0d15ed48298be26fa4c.webm",
+                "cost": "2000",
+                "created": 1726481585,
+                "updated": 1726907364
+            },
+            {
+                "id": 311849,
+                "title": "First Animated Miniback",
+                "description": "ESS_Maback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3044550/61405307d45b462f8680fac6798aedffb0e73ca2.webm",
+                "cost": "2000",
+                "created": 1726481522,
+                "updated": 1726907364
             }
         ],
         "background": [
@@ -32635,6 +32653,42 @@
                 "cost": "2000",
                 "created": 1724921323,
                 "updated": 1726710754
+            },
+            {
+                "id": 311848,
+                "title": "Second Animated Back",
+                "description": "ESS_Aback_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3044550/2a552f2b560c2a2e8e02852be856b01be7068ba2.webm",
+                "cost": "2000",
+                "created": 1726481726,
+                "updated": 1726907364
+            },
+            {
+                "id": 311847,
+                "title": "First Animated Back",
+                "description": "ESS_Aback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3044550/b91e6682f1006446132ca6dda5e2b49136082c4f.webm",
+                "cost": "2000",
+                "created": 1726481379,
+                "updated": 1726907364
+            },
+            {
+                "id": 311747,
+                "title": "Girls swimsuit time",
+                "description": "Girls swimsuit time",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1959520/104b8b286e672e1c0f6185c13eecb829a0e93bb4.webm",
+                "cost": "2000",
+                "created": 1719770282,
+                "updated": 1726854306
+            },
+            {
+                "id": 311745,
+                "title": "Casual afternoon tea",
+                "description": "Casual afternoon tea",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1959520/a1f1de718dc06b059155093e509d51258dc09f3a.webm",
+                "cost": "2000",
+                "created": 1719769849,
+                "updated": 1726854306
             }
         ],
         "frame": [
@@ -43297,6 +43351,42 @@
                 "cost": "2000",
                 "created": 1724920504,
                 "updated": 1726710754
+            },
+            {
+                "id": 311854,
+                "title": "Green Frame",
+                "description": "ESS_Frame_4",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3044550/b92a3e1836573f74f993e43a58f93450818b3cd8.png",
+                "cost": "2000",
+                "created": 1726481825,
+                "updated": 1726907364
+            },
+            {
+                "id": 311853,
+                "title": "Red Frame",
+                "description": "ESS_Frame_3",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3044550/ccb8d25c0a1e16835fef9fbcf4c594fbe61cb25c.png",
+                "cost": "2000",
+                "created": 1726481778,
+                "updated": 1726907364
+            },
+            {
+                "id": 311852,
+                "title": "Yellow Frame",
+                "description": "ESS_Frame_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3044550/6edd890af3bc1961ac15ad7957c1965fba240140.png",
+                "cost": "2000",
+                "created": 1726481697,
+                "updated": 1726907364
+            },
+            {
+                "id": 311851,
+                "title": "Fire Frame",
+                "description": "ESS_Frame_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3044550/675fbde9b9c62315bead202136f9d25b7af0fdc5.png",
+                "cost": "2000",
+                "created": 1726481642,
+                "updated": 1726907364
             }
         ],
         "sticker": [
@@ -60053,6 +60143,8 @@
             78807,
             78806,
             78805,
+            311850,
+            311849,
             311297,
             311296,
             311295,
@@ -60867,6 +60959,10 @@
             78811,
             78810,
             78809,
+            311848,
+            311847,
+            311747,
+            311745,
             311316,
             311314,
             311313,
@@ -61899,6 +61995,10 @@
             78767,
             78766,
             78765,
+            311854,
+            311853,
+            311852,
+            311851,
             311294,
             311293,
             311068,
