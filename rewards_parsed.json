@@ -1,13 +1,13 @@
 {
     "count": {
-        "avatar": 1916,
+        "avatar": 1922,
         "mini": 843,
         "background": 1068,
-        "frame": 1227,
-        "sticker": 1585,
+        "frame": 1229,
+        "sticker": 1590,
         "gameprofile": 93,
         "keyboard": 8,
-        "startup": 30
+        "startup": 31
     },
     "data": {
         "avatar": [
@@ -16776,6 +16776,60 @@
                 "cost": "3000",
                 "created": 1725484232,
                 "updated": 1727274720
+            },
+            {
+                "id": 314157,
+                "title": "Giraffe Avatar",
+                "description": "giraffe_avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1888930/1774642e6e322f91db3152c371ec1febc162cc2b.gif",
+                "cost": "3000",
+                "created": 1727212841,
+                "updated": 1727390793
+            },
+            {
+                "id": 314154,
+                "title": "Ellie Window Avatar",
+                "description": "ellie_window_avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1888930/7e7bc8389787e5ca72e212cee8a09c263645eee1.gif",
+                "cost": "3000",
+                "created": 1727212825,
+                "updated": 1727390793
+            },
+            {
+                "id": 314127,
+                "title": "百里奇",
+                "description": "百里奇",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1189490/200021cf22dc4f61577f4d679dbcd439fff86fff.gif",
+                "cost": "3000",
+                "created": 1698734354,
+                "updated": 1727355636
+            },
+            {
+                "id": 314124,
+                "title": "林沐心",
+                "description": "林沐心",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1189490/a148a64ebb92d225149797918f59cfaeb45cea0b.gif",
+                "cost": "3000",
+                "created": 1698734310,
+                "updated": 1727355636
+            },
+            {
+                "id": 314126,
+                "title": "公孙季",
+                "description": "公孙季",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1189490/c52b684bb0e5ba6129b5d2a9e75961a23b5f08e4.gif",
+                "cost": "3000",
+                "created": 1698734266,
+                "updated": 1727355636
+            },
+            {
+                "id": 314125,
+                "title": "倪旭欣",
+                "description": "倪旭欣",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1189490/9070f7310c09490923a3ab0d89466111c5562e5b.gif",
+                "cost": "3000",
+                "created": 1698734204,
+                "updated": 1727355636
             }
         ],
         "mini": [
@@ -44503,6 +44557,24 @@
                 "cost": "2000",
                 "created": 1725473107,
                 "updated": 1727274720
+            },
+            {
+                "id": 314156,
+                "title": "Giraffe Frame",
+                "description": "giraffe_frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1888930/bd6f1c56a88b41fc8a18ac8b4dde840f4e51a9cc.png",
+                "cost": "2000",
+                "created": 1727212429,
+                "updated": 1727390793
+            },
+            {
+                "id": 314155,
+                "title": "Ellie Window Frame",
+                "description": "ellie_window_frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1888930/f5a159a1c521d881231e7df84e9eb830052d5f1f.png",
+                "cost": "2000",
+                "created": 1727212397,
+                "updated": 1727390793
             }
         ],
         "sticker": [
@@ -58340,6 +58412,51 @@
                 "cost": "1000",
                 "created": 1727087304,
                 "updated": 1727204307
+            },
+            {
+                "id": 314153,
+                "title": "Skull",
+                "description": "skull_tlou",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1888930/8109b8dcac6088ae78e68dbc71253841486583f5.png",
+                "cost": "1000",
+                "created": 1727212371,
+                "updated": 1727390793
+            },
+            {
+                "id": 314152,
+                "title": "Rabbit",
+                "description": "rabbit_tlou",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1888930/34da4f16b2894ae0c4f0ffa95ca1a9f1e00000c9.png",
+                "cost": "1000",
+                "created": 1727212351,
+                "updated": 1727390793
+            },
+            {
+                "id": 314151,
+                "title": "Joel Annoyed",
+                "description": "joel_annoyed_tlou",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1888930/079f43b697e5a403062a62348c8cc165c2e9a42d.png",
+                "cost": "1000",
+                "created": 1727212328,
+                "updated": 1727390793
+            },
+            {
+                "id": 314150,
+                "title": "Ellie Whistling",
+                "description": "ellie_whistling_tlou",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1888930/05e57de82965ce6605d6456db76d4e0971f98c42.png",
+                "cost": "1000",
+                "created": 1727212307,
+                "updated": 1727390793
+            },
+            {
+                "id": 314149,
+                "title": "Carousel",
+                "description": "carousel_tlou",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1888930/340ed35e1c413eee5cd8293abab0c1bc9498c12e.png",
+                "cost": "1000",
+                "created": 1727212282,
+                "updated": 1727390793
             }
         ],
         "gameprofile": [
@@ -59465,6 +59582,15 @@
                 "cost": "3000",
                 "created": 1725064939,
                 "updated": 1725728325
+            },
+            {
+                "id": 314158,
+                "title": "The Last of Us™ Part I",
+                "description": "The Last of Us™ Part I",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1888930/aeebc255b230bcf4f50e5ad56fc1f3dd67790dbe.webm",
+                "cost": "3000",
+                "created": 1727213111,
+                "updated": 1727390793
             }
         ]
     },
@@ -59476,6 +59602,12 @@
             78780,
             78779,
             78778,
+            314157,
+            314154,
+            314127,
+            314126,
+            314125,
+            314124,
             313901,
             313820,
             313819,
@@ -63312,6 +63444,8 @@
             78767,
             78766,
             78765,
+            314156,
+            314155,
             313791,
             313790,
             313789,
@@ -64625,6 +64759,11 @@
             78770,
             78769,
             78768,
+            314153,
+            314152,
+            314151,
+            314150,
+            314149,
             313731,
             313726,
             313725,
@@ -66224,6 +66363,7 @@
             159997
         ],
         "startup": [
+            314158,
             308877,
             282758,
             262446,
