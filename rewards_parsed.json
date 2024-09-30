@@ -1,10 +1,10 @@
 {
     "count": {
-        "avatar": 1922,
-        "mini": 843,
-        "background": 1068,
-        "frame": 1229,
-        "sticker": 1590,
+        "avatar": 1923,
+        "mini": 844,
+        "background": 1069,
+        "frame": 1232,
+        "sticker": 1596,
         "gameprofile": 93,
         "keyboard": 8,
         "startup": 31
@@ -16830,6 +16830,15 @@
                 "cost": "3000",
                 "created": 1698734204,
                 "updated": 1727355636
+            },
+            {
+                "id": 314686,
+                "title": "Mage",
+                "description": "SpellDisk_DungeonArchitectCharge",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2292060/4fd5f0459ec59833c8fc1d357d0cdfa0f516fb3c.gif",
+                "cost": "3000",
+                "created": 1725901250,
+                "updated": 1727628264
             }
         ],
         "mini": [
@@ -24291,6 +24300,15 @@
                 "cost": "2000",
                 "created": 1725485165,
                 "updated": 1727274720
+            },
+            {
+                "id": 314682,
+                "title": "Mage",
+                "description": "SpellDisk_MiniProfilebg",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2292060/3082a82e9e14e4992d04def67af603fb6a069ff4.webm",
+                "cost": "2000",
+                "created": 1726045545,
+                "updated": 1727628264
             }
         ],
         "background": [
@@ -33742,6 +33760,15 @@
                 "cost": "2000",
                 "created": 1725474209,
                 "updated": 1727274720
+            },
+            {
+                "id": 314684,
+                "title": "Mage",
+                "description": "SpellDisk_AnimatedProfileBackground",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2292060/41f1cb966994c3df777405b626b149ef792fd9fd.webm",
+                "cost": "2000",
+                "created": 1726045398,
+                "updated": 1727628264
             }
         ],
         "frame": [
@@ -44575,6 +44602,33 @@
                 "cost": "2000",
                 "created": 1727212397,
                 "updated": 1727390793
+            },
+            {
+                "id": 314693,
+                "title": "Spell",
+                "description": "SpellFrame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2292060/1a8e3660acf844d398ec03380b64d4f6bcae7b61.png",
+                "cost": "2000",
+                "created": 1725901335,
+                "updated": 1727628264
+            },
+            {
+                "id": 314692,
+                "title": "Gem",
+                "description": "GemAvatarFrame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2292060/f339071cd484f2c41b9a2db343d089886b1d8a06.png",
+                "cost": "2000",
+                "created": 1725901321,
+                "updated": 1727628264
+            },
+            {
+                "id": 314685,
+                "title": "Golden",
+                "description": "AvatarProfileFrame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2292060/03453bb99e9dd4f47a5144427ca61e8f172412ff.png",
+                "cost": "2000",
+                "created": 1725901309,
+                "updated": 1727628264
             }
         ],
         "sticker": [
@@ -58457,6 +58511,60 @@
                 "cost": "1000",
                 "created": 1727212282,
                 "updated": 1727390793
+            },
+            {
+                "id": 314683,
+                "title": "Charging",
+                "description": "SpellDisk_Sticker",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2292060/ac3efb7e9ea0760ccbfdc158ab9e4269c92f5afa.png",
+                "cost": "1000",
+                "created": 1725901357,
+                "updated": 1727628264
+            },
+            {
+                "id": 314687,
+                "title": "Disk",
+                "description": "SpellDisk_HeartDisk",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2292060/8b07e9577f8e066412bb41651212d8cd80970017.png",
+                "cost": "1000",
+                "created": 1725572735,
+                "updated": 1727628264
+            },
+            {
+                "id": 314689,
+                "title": "Combo",
+                "description": "SpellDisk_DefaultCombo",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2292060/7eb1436094856e40184ea024f85fa457bda05479.png",
+                "cost": "1000",
+                "created": 1725572716,
+                "updated": 1727628264
+            },
+            {
+                "id": 314688,
+                "title": "Dash",
+                "description": "SpellDisk_CatMove",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2292060/525b943c02c83749965c29f396ce0f635c4681a7.png",
+                "cost": "1000",
+                "created": 1725572694,
+                "updated": 1727628264
+            },
+            {
+                "id": 314690,
+                "title": "Bunny",
+                "description": "SpellDisk_BunnyStomp",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2292060/75efbfefc1b5a96f81c0df47a870771cfd5af3ad.png",
+                "cost": "1000",
+                "created": 1725572675,
+                "updated": 1727628264
+            },
+            {
+                "id": 314691,
+                "title": "Stop!",
+                "description": "CryomancerStop",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2292060/ce672ea0f26c097381ca504933f7c0dc50c75728.png",
+                "cost": "1000",
+                "created": 1725572383,
+                "updated": 1727628264
             }
         ],
         "gameprofile": [
@@ -59602,6 +59710,7 @@
             78780,
             78779,
             78778,
+            314686,
             314157,
             314154,
             314127,
@@ -61534,6 +61643,7 @@
             78807,
             78806,
             78805,
+            314682,
             313900,
             313899,
             313898,
@@ -62380,6 +62490,7 @@
             78811,
             78810,
             78809,
+            314684,
             313897,
             313896,
             313895,
@@ -63444,6 +63555,9 @@
             78767,
             78766,
             78765,
+            314693,
+            314692,
+            314685,
             314156,
             314155,
             313791,
@@ -64759,6 +64873,12 @@
             78770,
             78769,
             78768,
+            314691,
+            314690,
+            314689,
+            314688,
+            314687,
+            314683,
             314153,
             314152,
             314151,
