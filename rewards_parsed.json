@@ -1,13 +1,13 @@
 {
     "count": {
-        "avatar": 1932,
-        "mini": 846,
-        "background": 1069,
-        "frame": 1237,
-        "sticker": 1631,
-        "gameprofile": 94,
+        "avatar": 1947,
+        "mini": 850,
+        "background": 1073,
+        "frame": 1244,
+        "sticker": 1639,
+        "gameprofile": 95,
         "keyboard": 8,
-        "startup": 31
+        "startup": 32
     },
     "data": {
         "avatar": [
@@ -16920,6 +16920,141 @@
                 "cost": "3000",
                 "created": 1724942138,
                 "updated": 1727798632
+            },
+            {
+                "id": 315924,
+                "title": "World Serpent",
+                "description": "World Serpent",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/b105add6659b1fffd4d973aab6f3f4f81312acbf.gif",
+                "cost": "3000",
+                "created": 1727392858,
+                "updated": 1727907068
+            },
+            {
+                "id": 315932,
+                "title": "Tyr",
+                "description": "Tyr",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/091f828144b76a8e1e603dfd6370277b709c6882.gif",
+                "cost": "3000",
+                "created": 1727392809,
+                "updated": 1727907068
+            },
+            {
+                "id": 315931,
+                "title": "Thor",
+                "description": "Thor",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/45bf4ffb6a5d6905a687a5b515cc11bd9ef8c677.gif",
+                "cost": "3000",
+                "created": 1727392748,
+                "updated": 1727907068
+            },
+            {
+                "id": 315930,
+                "title": "Sindri",
+                "description": "Sindri",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/769c5afe4cb04d08e4079400539a8b953c504eec.gif",
+                "cost": "3000",
+                "created": 1727392701,
+                "updated": 1727907068
+            },
+            {
+                "id": 315929,
+                "title": "Ratatoskr",
+                "description": "Ratatoskr",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/954ca6849ec92fc56de9c4577a26999674bad67a.gif",
+                "cost": "3000",
+                "created": 1727392627,
+                "updated": 1727907068
+            },
+            {
+                "id": 315928,
+                "title": "Odin",
+                "description": "Odin",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/d51486646ef5b2f135345ef5b433377e02718990.gif",
+                "cost": "3000",
+                "created": 1727392576,
+                "updated": 1727907068
+            },
+            {
+                "id": 315927,
+                "title": "Mimir",
+                "description": "Mimir",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/e70dc745131da3f78f5d777f7be1d1a9d3430fd0.gif",
+                "cost": "3000",
+                "created": 1727392527,
+                "updated": 1727907068
+            },
+            {
+                "id": 315926,
+                "title": "Lady of the Lake",
+                "description": "Lady of the Lake",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/f5df2b8b1b0816ad9b7826c1387ce1afb34b69ec.gif",
+                "cost": "3000",
+                "created": 1727392464,
+                "updated": 1727907068
+            },
+            {
+                "id": 315925,
+                "title": "Kratos - Bear Cloak",
+                "description": "Kratos - Bear Cloak",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/d78554748b7e6a1d5d027cc20b24e0aceb6881c2.gif",
+                "cost": "3000",
+                "created": 1727392250,
+                "updated": 1727907068
+            },
+            {
+                "id": 315923,
+                "title": "Freya",
+                "description": "Freya",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/76ca16a8e303ac3156c9d1ac9797135e3e950a92.gif",
+                "cost": "3000",
+                "created": 1727392141,
+                "updated": 1727907068
+            },
+            {
+                "id": 315922,
+                "title": "Faye",
+                "description": "Faye",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/1e8047ed0e0df6207d2321cc36c6f53fafc51620.gif",
+                "cost": "3000",
+                "created": 1727392100,
+                "updated": 1727907068
+            },
+            {
+                "id": 315921,
+                "title": "Brok",
+                "description": "Brok",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/acae34590ac693d243d541fb110d1a4edd59141a.gif",
+                "cost": "3000",
+                "created": 1727392035,
+                "updated": 1727907068
+            },
+            {
+                "id": 315920,
+                "title": "Atreus",
+                "description": "Atreus",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/75f533c0834696e9669c43df43201e6eeada058b.gif",
+                "cost": "3000",
+                "created": 1727391966,
+                "updated": 1727907068
+            },
+            {
+                "id": 315902,
+                "title": "Angrboda",
+                "description": "Animated Avatar - Angrboda",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/b56310428de45af1747aa0670678c0c5eb3b83aa.gif",
+                "cost": "3000",
+                "created": 1727391246,
+                "updated": 1727907068
+            },
+            {
+                "id": 315692,
+                "title": "CH1-P",
+                "description": "CH1-P",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1299690/fc257a33fae3513ce3f2d8b1ee66a4175b393075.gif",
+                "cost": "3000",
+                "created": 1726650795,
+                "updated": 1727874816
             }
         ],
         "mini": [
@@ -24408,6 +24543,42 @@
                 "cost": "2000",
                 "created": 1727194709,
                 "updated": 1727725533
+            },
+            {
+                "id": 315900,
+                "title": "Campfire",
+                "description": "GoWR Animated Mini BG - Campfire",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/ee7cd7491ee55c385ecb2962d3af707e781e895e.webm",
+                "cost": "2000",
+                "created": 1727391555,
+                "updated": 1727907068
+            },
+            {
+                "id": 315919,
+                "title": "Odin's Office",
+                "description": "Odin's Office",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/2eb66482cce818d57fd77c6243b1e4e0a91db921.webm",
+                "cost": "2000",
+                "created": 1726533780,
+                "updated": 1727907068
+            },
+            {
+                "id": 315918,
+                "title": "Dinner Table",
+                "description": "Dinner Table",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/ad2ca3634c56ebd077ac05b6b51b849fd8ee37c9.webm",
+                "cost": "2000",
+                "created": 1726533665,
+                "updated": 1727907068
+            },
+            {
+                "id": 315917,
+                "title": "Crater",
+                "description": "Crater",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/d1fa7ef590ec978c4d882a51a68d5e7441372fb6.webm",
+                "cost": "2000",
+                "created": 1726533482,
+                "updated": 1727907068
             }
         ],
         "background": [
@@ -33868,6 +34039,42 @@
                 "cost": "2000",
                 "created": 1726045398,
                 "updated": 1727628264
+            },
+            {
+                "id": 315916,
+                "title": "Odin's Office",
+                "description": "GoWR Animated BG - Odin's Office",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/5ee884e32c868692cd21ddd2a5afcb5ff7ed1a71.webm",
+                "cost": "2000",
+                "created": 1727394914,
+                "updated": 1727907068
+            },
+            {
+                "id": 315899,
+                "title": "Campfire",
+                "description": "GoWR Animated BG - Campfire",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/9a24d3e5bb8f49128917f9144f66feffbbe9e265.webm",
+                "cost": "2000",
+                "created": 1727391682,
+                "updated": 1727907068
+            },
+            {
+                "id": 315915,
+                "title": "Dinner Table",
+                "description": "GoWR Animated BG - Dinnertable",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/020e5b69ac509aace5e86bb2f8a7c9d3576f9039.webm",
+                "cost": "2000",
+                "created": 1727391632,
+                "updated": 1727907068
+            },
+            {
+                "id": 315914,
+                "title": "Crater",
+                "description": "GoWR Animated BG - Crater",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/6256cf58255844797e7693e59213b4cab8369938.webm",
+                "cost": "2000",
+                "created": 1727391603,
+                "updated": 1727907068
             }
         ],
         "frame": [
@@ -44773,6 +44980,69 @@
                 "cost": "2000",
                 "created": 1725023896,
                 "updated": 1727798632
+            },
+            {
+                "id": 315851,
+                "title": "Barony Halloween Frame",
+                "description": "Barony Scarony Halloween",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/371970/ad73bf22f685e4decccf0389a660ae571481f2f7.png",
+                "cost": "2000",
+                "created": 1727813181,
+                "updated": 1727898881
+            },
+            {
+                "id": 315689,
+                "title": "Gori Cat Ears",
+                "description": "Gori Cat Ears",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1299690/bd24ffb3b805af1da43aa8bdf8ece1206f4849fe.png",
+                "cost": "2000",
+                "created": 1726829152,
+                "updated": 1727874816
+            },
+            {
+                "id": 315901,
+                "title": "Fumbulwinter",
+                "description": "Fumbulwinter",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/e5a628f71e10417ba3c32def4d5fc7a6bcaab421.png",
+                "cost": "2000",
+                "created": 1726525001,
+                "updated": 1727907068
+            },
+            {
+                "id": 315690,
+                "title": "Sketched Memory",
+                "description": "Sketched Memory",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1299690/9a66375101155e55e2ee564bc0e57d4c743af7c8.png",
+                "cost": "2000",
+                "created": 1726212883,
+                "updated": 1727874816
+            },
+            {
+                "id": 315688,
+                "title": "Nightmare Stitches",
+                "description": "Nightmare Stitches",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1299690/edaa816d6df2f189de7d8ff74dc5b672969034df.png",
+                "cost": "2000",
+                "created": 1726149331,
+                "updated": 1727874816
+            },
+            {
+                "id": 315687,
+                "title": "Rainbow Gift",
+                "description": "Rainbow Gift",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1299690/1bb0b5a3e622a96ae7e024eaafdb1ea11c0943a1.png",
+                "cost": "2000",
+                "created": 1726145292,
+                "updated": 1727874816
+            },
+            {
+                "id": 315686,
+                "title": "Comic-Book",
+                "description": "Comic-Book",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1299690/7d375c0d29856cb5eb8c74fb9e5fb52cee17c930.png",
+                "cost": "2000",
+                "created": 1726135538,
+                "updated": 1727874816
             }
         ],
         "sticker": [
@@ -59024,6 +59294,78 @@
                 "cost": "1000",
                 "created": 1727400117,
                 "updated": 1727821392
+            },
+            {
+                "id": 315857,
+                "title": "AK47",
+                "description": "AK47",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/805940/d7009aa6251d141048ca3a22545d5c9b85f19289.png",
+                "cost": "1000",
+                "created": 1727707806,
+                "updated": 1727899332
+            },
+            {
+                "id": 315895,
+                "title": "God of War Ragnarök - Freya",
+                "description": "gowr_freya",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/40e413076cd761187690a2492252d70bc44b080b.png",
+                "cost": "1000",
+                "created": 1727388722,
+                "updated": 1727907068
+            },
+            {
+                "id": 315897,
+                "title": "God of War Ragnarök - Mimir",
+                "description": "gowr_mimir",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/25fe94f5adb03d86eb3b3724fc9832e65379ca36.png",
+                "cost": "1000",
+                "created": 1727388689,
+                "updated": 1727907068
+            },
+            {
+                "id": 315896,
+                "title": "God of War Ragnarök - Kratos",
+                "description": "gowr_kratos",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/7b48f85095551f2cb108e1bec4f7dcfbd0249b94.png",
+                "cost": "1000",
+                "created": 1727388658,
+                "updated": 1727907068
+            },
+            {
+                "id": 315898,
+                "title": "God of War Ragnarök - Ratatoskr",
+                "description": "gowr_ratatoskr",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/c61df66620bacab0fa892249eb583fea5e65547b.png",
+                "cost": "1000",
+                "created": 1727388634,
+                "updated": 1727907068
+            },
+            {
+                "id": 315693,
+                "title": "CH1-P",
+                "description": "CH1-P",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1299690/d70af89c6eb3b3d88e86abb4fe2108e9cace99f7.png",
+                "cost": "1000",
+                "created": 1726650838,
+                "updated": 1727874816
+            },
+            {
+                "id": 315892,
+                "title": "God of War Ragnarök - Atreus",
+                "description": "gowr_atreus",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/800c6a422c5ff42f2163ea8ebde92d473916e414.png",
+                "cost": "1000",
+                "created": 1726519029,
+                "updated": 1727907068
+            },
+            {
+                "id": 315691,
+                "title": "Gori Party",
+                "description": "Gori Party",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1299690/301a9db50b6b26348974cc87e04748803b39c050.png",
+                "cost": "1000",
+                "created": 1726214803,
+                "updated": 1727874816
             }
         ],
         "gameprofile": [
@@ -59833,6 +60175,15 @@
                 "cost": "5000",
                 "created": 1727824241,
                 "updated": 1727824252
+            },
+            {
+                "id": 315933,
+                "title": "God of War Ragnarök: Valhalla Bundle",
+                "description": "God of War Ragnarök: Valhalla Bundle",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/765b99cc1fca7d7e6e0427439e8940f6775ad723.jpg",
+                "cost": "10000",
+                "created": 1727816651,
+                "updated": 1727907068
             }
         ],
         "keyboard": [
@@ -60167,6 +60518,15 @@
                 "cost": "3000",
                 "created": 1727213111,
                 "updated": 1727390793
+            },
+            {
+                "id": 315938,
+                "title": "God of War Ragnarök",
+                "description": "God of War Ragnarök",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2322010/2748bd4e3166cb3e92f6a7ee40a5db5f496bed89.webm",
+                "cost": "3000",
+                "created": 1727904298,
+                "updated": 1727907068
             }
         ]
     },
@@ -60178,6 +60538,21 @@
             78780,
             78779,
             78778,
+            315932,
+            315931,
+            315930,
+            315929,
+            315928,
+            315927,
+            315926,
+            315925,
+            315924,
+            315923,
+            315922,
+            315921,
+            315920,
+            315902,
+            315692,
             315338,
             315337,
             315336,
@@ -62120,6 +62495,10 @@
             78807,
             78806,
             78805,
+            315919,
+            315918,
+            315917,
+            315900,
             314954,
             314953,
             314682,
@@ -62969,6 +63348,10 @@
             78811,
             78810,
             78809,
+            315916,
+            315915,
+            315914,
+            315899,
             314684,
             313897,
             313896,
@@ -64034,6 +64417,13 @@
             78767,
             78766,
             78765,
+            315901,
+            315851,
+            315690,
+            315689,
+            315688,
+            315687,
+            315686,
             315314,
             315269,
             315201,
@@ -65357,6 +65747,14 @@
             78770,
             78769,
             78768,
+            315898,
+            315897,
+            315896,
+            315895,
+            315892,
+            315857,
+            315693,
+            315691,
             315367,
             315366,
             315365,
@@ -66898,6 +67296,7 @@
         ],
         "gameprofile": [
             78784,
+            315933,
             315263,
             302562,
             299626,
@@ -67003,6 +67402,7 @@
             159997
         ],
         "startup": [
+            315938,
             314158,
             308877,
             282758,
