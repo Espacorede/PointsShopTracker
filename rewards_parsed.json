@@ -1,9 +1,9 @@
 {
     "count": {
         "avatar": 1955,
-        "mini": 854,
-        "background": 1078,
-        "frame": 1248,
+        "mini": 856,
+        "background": 1081,
+        "frame": 1255,
         "sticker": 1647,
         "gameprofile": 95,
         "keyboard": 8,
@@ -24687,6 +24687,24 @@
                 "cost": "2000",
                 "created": 1727188414,
                 "updated": 1727969211
+            },
+            {
+                "id": 326721,
+                "title": "Second animated miniback",
+                "description": "SH_maback2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3238270/1422162a91f3c9c31cf4909530ff09193b9b5a43.webm",
+                "cost": "2000",
+                "created": 1728329305,
+                "updated": 1728468998
+            },
+            {
+                "id": 326720,
+                "title": "First animated miniback",
+                "description": "SH_Maback1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3238270/c1e0405440daac79af06134b03807e83d43db305.webm",
+                "cost": "2000",
+                "created": 1728329265,
+                "updated": 1728468998
             }
         ],
         "background": [
@@ -34228,6 +34246,33 @@
                 "cost": "2000",
                 "created": 1727190433,
                 "updated": 1727969211
+            },
+            {
+                "id": 326719,
+                "title": "Second animated back",
+                "description": "SH_Aback_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3238270/1f8b35527b0292845041282117687afc077f947c.webm",
+                "cost": "2000",
+                "created": 1728329220,
+                "updated": 1728468998
+            },
+            {
+                "id": 326718,
+                "title": "First animated back",
+                "description": "SH_Aback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3238270/f242ed491b72f03d8d34c36f9a335fa58ace63ff.webm",
+                "cost": "2000",
+                "created": 1728329153,
+                "updated": 1728468998
+            },
+            {
+                "id": 317663,
+                "title": "Call of Olympus",
+                "description": "Call of Olympus",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/701160/d69b40b1f706a192ed553be85eea7603eba6c00d.webm",
+                "cost": "2000",
+                "created": 1726580555,
+                "updated": 1728389185
             }
         ],
         "frame": [
@@ -45232,6 +45277,69 @@
                 "cost": "2000",
                 "created": 1725543688,
                 "updated": 1727969211
+            },
+            {
+                "id": 326725,
+                "title": "Orange frame",
+                "description": "frame4",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3238270/781462e2bd1ebacaff3f7d8f4732212fc7a9e02a.png",
+                "cost": "2000",
+                "created": 1728329473,
+                "updated": 1728468998
+            },
+            {
+                "id": 326724,
+                "title": "Red frame",
+                "description": "frame3",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3238270/2b8d914c6fe9dbef8b480f148ece554895e42445.png",
+                "cost": "2000",
+                "created": 1728329437,
+                "updated": 1728468998
+            },
+            {
+                "id": 326723,
+                "title": "Purple frame",
+                "description": "frame2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3238270/8a731fe7d4ce60962758dc7eed7894608f6a900a.png",
+                "cost": "2000",
+                "created": 1728329374,
+                "updated": 1728468998
+            },
+            {
+                "id": 326722,
+                "title": "Blue frame",
+                "description": "frame1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3238270/1c40088add9b14777c287cb5fb47de14f5aa2759.png",
+                "cost": "2000",
+                "created": 1728329342,
+                "updated": 1728468998
+            },
+            {
+                "id": 317667,
+                "title": "Call of Olympus",
+                "description": "Call of Olympus",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/701160/4b2e1b159a5daf94e7760f2d71f0a9d4f20a519c.png",
+                "cost": "2000",
+                "created": 1727813170,
+                "updated": 1728389185
+            },
+            {
+                "id": 101039,
+                "title": "TIE Fighter",
+                "description": "TIE Fighter",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1222730/60f3c07a521a0a67ffa694b2e842861a348cfe21.png",
+                "cost": "500",
+                "created": 1601398742,
+                "updated": 1728401853
+            },
+            {
+                "id": 101038,
+                "title": "Vanguard X-Wing",
+                "description": "Vanguard X-Wing",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1222730/e81701db085735b48bfdae7c8a97393a02759bb5.png",
+                "cost": "500",
+                "created": 1601398709,
+                "updated": 1728401853
             }
         ],
         "sticker": [
@@ -62764,6 +62872,8 @@
             78807,
             78806,
             78805,
+            326721,
+            326720,
             316268,
             316267,
             316266,
@@ -63621,6 +63731,9 @@
             78811,
             78810,
             78809,
+            326719,
+            326718,
+            317663,
             316528,
             316264,
             316263,
@@ -64695,6 +64808,11 @@
             78767,
             78766,
             78765,
+            326725,
+            326724,
+            326723,
+            326722,
+            317667,
             316453,
             316271,
             316270,
@@ -65931,6 +66049,8 @@
             101687,
             101270,
             101089,
+            101039,
+            101038,
             100609,
             100608,
             100571
