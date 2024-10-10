@@ -1,9 +1,9 @@
 {
     "count": {
         "avatar": 1955,
-        "mini": 856,
-        "background": 1081,
-        "frame": 1255,
+        "mini": 858,
+        "background": 1083,
+        "frame": 1259,
         "sticker": 1647,
         "gameprofile": 95,
         "keyboard": 8,
@@ -24705,6 +24705,24 @@
                 "cost": "2000",
                 "created": 1728329265,
                 "updated": 1728468998
+            },
+            {
+                "id": 327121,
+                "title": "Forest Animated Miniback",
+                "description": "LE_Maback_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3172860/d8f1a471a3e8ac67313cee6c6a843ab74ce67fbd.webm",
+                "cost": "2000",
+                "created": 1727810800,
+                "updated": 1728554685
+            },
+            {
+                "id": 327120,
+                "title": "Castle Animated Miniback",
+                "description": "LE_Maback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3172860/59985bc5146831daa7707319af9222fdb59cedfe.webm",
+                "cost": "2000",
+                "created": 1727810695,
+                "updated": 1728554685
             }
         ],
         "background": [
@@ -34273,6 +34291,24 @@
                 "cost": "2000",
                 "created": 1726580555,
                 "updated": 1728389185
+            },
+            {
+                "id": 327123,
+                "title": "Forest Animated Back",
+                "description": "LE_Aback_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3172860/4c47c0e6c4a92c364a0c3d1fb1ca4dd00e4e57e2.webm",
+                "cost": "2000",
+                "created": 1728330628,
+                "updated": 1728554685
+            },
+            {
+                "id": 327122,
+                "title": "Castle Animated Back",
+                "description": "LE_Aback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3172860/6aca0fd24280018d9252c8d0502fd38550c33020.webm",
+                "cost": "2000",
+                "created": 1728330510,
+                "updated": 1728554685
             }
         ],
         "frame": [
@@ -45340,6 +45376,42 @@
                 "cost": "500",
                 "created": 1601398709,
                 "updated": 1728401853
+            },
+            {
+                "id": 327119,
+                "title": "Purple Frame",
+                "description": "LE_Frame_4",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3172860/fe3ad2f56f242f54cb4d9490a4dbb5af22d0224f.png",
+                "cost": "2000",
+                "created": 1727811140,
+                "updated": 1728554685
+            },
+            {
+                "id": 327118,
+                "title": "Aqua Frame",
+                "description": "LE_Frame_3",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3172860/137c1bf7c210088da1807f277c4d400009ff5918.png",
+                "cost": "2000",
+                "created": 1727811073,
+                "updated": 1728554685
+            },
+            {
+                "id": 327117,
+                "title": "Light Green Frame",
+                "description": "LE_Frame_2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3172860/cb031b98f09132db63e88ce83ec90a8fad0fb091.png",
+                "cost": "2000",
+                "created": 1727811000,
+                "updated": 1728554685
+            },
+            {
+                "id": 327116,
+                "title": "Orange Frame",
+                "description": "LE_Frame_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3172860/d86cef77f55060e0ad4380ae1bc385e8331b48c8.png",
+                "cost": "2000",
+                "created": 1727810878,
+                "updated": 1728554685
             }
         ],
         "sticker": [
@@ -62872,6 +62944,8 @@
             78807,
             78806,
             78805,
+            327121,
+            327120,
             326721,
             326720,
             316268,
@@ -63731,6 +63805,8 @@
             78811,
             78810,
             78809,
+            327123,
+            327122,
             326719,
             326718,
             317663,
@@ -64808,6 +64884,10 @@
             78767,
             78766,
             78765,
+            327119,
+            327118,
+            327117,
+            327116,
             326725,
             326724,
             326723,
