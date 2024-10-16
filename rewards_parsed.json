@@ -1,9 +1,9 @@
 {
     "count": {
         "avatar": 1955,
-        "mini": 858,
-        "background": 1083,
-        "frame": 1259,
+        "mini": 860,
+        "background": 1085,
+        "frame": 1263,
         "sticker": 1647,
         "gameprofile": 95,
         "keyboard": 8,
@@ -24723,6 +24723,24 @@
                 "cost": "2000",
                 "created": 1727810695,
                 "updated": 1728554685
+            },
+            {
+                "id": 331075,
+                "title": "City Animated Miniback",
+                "description": "SBV_MAback2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2657030/541b1f3e11bb14b324e86d132643e8093773f36a.webm",
+                "cost": "2000",
+                "created": 1728328008,
+                "updated": 1729070288
+            },
+            {
+                "id": 331074,
+                "title": "Purple Animated Miniback",
+                "description": "SBV Maback1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2657030/0f74e2190e5fbf6a9c603cefb0b857e1f2d54828.webm",
+                "cost": "2000",
+                "created": 1728327940,
+                "updated": 1729070288
             }
         ],
         "background": [
@@ -34309,6 +34327,24 @@
                 "cost": "2000",
                 "created": 1728330510,
                 "updated": 1728554685
+            },
+            {
+                "id": 331073,
+                "title": "City Animated Back",
+                "description": "SBVaback2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2657030/90593ac3a91669eb3e3372e7ea9174fdd674e35e.webm",
+                "cost": "2000",
+                "created": 1728327850,
+                "updated": 1729070288
+            },
+            {
+                "id": 331072,
+                "title": "Purple Animated Back",
+                "description": "SBVAback_1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2657030/47004e658a2ef7b2f5879fb1cf6aae0a453141b5.webm",
+                "cost": "2000",
+                "created": 1728327755,
+                "updated": 1729070288
             }
         ],
         "frame": [
@@ -45412,6 +45448,42 @@
                 "cost": "2000",
                 "created": 1727810878,
                 "updated": 1728554685
+            },
+            {
+                "id": 331079,
+                "title": "Ultramarine Frame",
+                "description": "SBV_Frame_4",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2657030/39900e89b13dfbb4149e83941d32040d9d7f68b4.png",
+                "cost": "2000",
+                "created": 1728328399,
+                "updated": 1729070288
+            },
+            {
+                "id": 331078,
+                "title": "Amethyst Frame",
+                "description": "SBV_Frame_3",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2657030/363fc7a79ea410e55d8cfb77596286d92f654731.png",
+                "cost": "2000",
+                "created": 1728328304,
+                "updated": 1729070288
+            },
+            {
+                "id": 331077,
+                "title": "Violet Frame",
+                "description": "SBV_Frame2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2657030/695c442b24328479a2a90cd4e1fcb9dded08e7de.png",
+                "cost": "2000",
+                "created": 1728328236,
+                "updated": 1729070288
+            },
+            {
+                "id": 331076,
+                "title": "Gory Frame",
+                "description": "SBV_Frame1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2657030/b30da7878e6add2e297d15468146d5ce244b6c91.png",
+                "cost": "2000",
+                "created": 1728328137,
+                "updated": 1729070288
             }
         ],
         "sticker": [
@@ -62944,6 +63016,8 @@
             78807,
             78806,
             78805,
+            331075,
+            331074,
             327121,
             327120,
             326721,
@@ -63805,6 +63879,8 @@
             78811,
             78810,
             78809,
+            331073,
+            331072,
             327123,
             327122,
             326719,
@@ -64884,6 +64960,10 @@
             78767,
             78766,
             78765,
+            331079,
+            331078,
+            331077,
+            331076,
             327119,
             327118,
             327117,
