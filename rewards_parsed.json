@@ -3,7 +3,7 @@
         "avatar": 1955,
         "mini": 862,
         "background": 1087,
-        "frame": 1267,
+        "frame": 1271,
         "sticker": 1647,
         "gameprofile": 95,
         "keyboard": 8,
@@ -45556,6 +45556,42 @@
                 "cost": "2000",
                 "created": 1728984585,
                 "updated": 1729200430
+            },
+            {
+                "id": 332961,
+                "title": "Amethyst Frame",
+                "description": "ldframe4",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3044560/48fa78182bcdcc1f87e985a5a3c3a0163580aa3d.png",
+                "cost": "2000",
+                "created": 1729602556,
+                "updated": 1729672480
+            },
+            {
+                "id": 332960,
+                "title": "Grape Frame",
+                "description": "ldframe3",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3044560/f6ca1bcb9b3870433b8af9f0c688dc2a40449bfa.png",
+                "cost": "2000",
+                "created": 1729602502,
+                "updated": 1729672480
+            },
+            {
+                "id": 332959,
+                "title": "Lavender Frame",
+                "description": "ldframe2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3044560/64fd3d384e1f68d999c478d8e5b2ee31f520bdae.png",
+                "cost": "2000",
+                "created": 1729602438,
+                "updated": 1729672480
+            },
+            {
+                "id": 332958,
+                "title": "Burgundy Farame",
+                "description": "LD_Farame21",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3044560/890a06c835e38030c47a5cad7be0fc3faa5b43a7.png",
+                "cost": "2000",
+                "created": 1729602362,
+                "updated": 1729672480
             }
         ],
         "sticker": [
@@ -65036,6 +65072,10 @@
             78767,
             78766,
             78765,
+            332961,
+            332960,
+            332959,
+            332958,
             331755,
             331754,
             331753,
