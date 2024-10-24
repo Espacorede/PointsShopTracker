@@ -2,7 +2,7 @@
     "count": {
         "avatar": 1955,
         "mini": 862,
-        "background": 1087,
+        "background": 1088,
         "frame": 1271,
         "sticker": 1647,
         "gameprofile": 95,
@@ -34381,6 +34381,15 @@
                 "cost": "2000",
                 "created": 1728984002,
                 "updated": 1729200430
+            },
+            {
+                "id": 333053,
+                "title": "Falling Mouthwash",
+                "description": "Falling Mouthwash",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2475490/ff3ec96d60904341ea391861b9ee71ec6bfb7695.webm",
+                "cost": "2000",
+                "created": 1729169552,
+                "updated": 1729699112
             }
         ],
         "frame": [
@@ -63989,6 +63998,7 @@
             78811,
             78810,
             78809,
+            333053,
             331749,
             331748,
             331073,
