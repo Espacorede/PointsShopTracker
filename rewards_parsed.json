@@ -4,7 +4,7 @@
         "mini": 863,
         "background": 1090,
         "frame": 1276,
-        "sticker": 1659,
+        "sticker": 1667,
         "gameprofile": 95,
         "keyboard": 8,
         "startup": 32
@@ -60239,6 +60239,78 @@
                 "cost": "1000",
                 "created": 1704956442,
                 "updated": 1729781871
+            },
+            {
+                "id": 333693,
+                "title": "Excalibur Laughing",
+                "description": "ExcaliburLaughing",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/230410/bb12d0db3d2ab1393c81344fa51fea6d4b39eb8f.png",
+                "cost": "1000",
+                "created": 1729882080,
+                "updated": 1729887097
+            },
+            {
+                "id": 333665,
+                "title": "Excalibur Nodding",
+                "description": "ExcalNod",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/230410/d3cb47dff88b4ed7e6ccc2ae4d3f31e3590b7adc.png",
+                "cost": "1000",
+                "created": 1729547607,
+                "updated": 1729887097
+            },
+            {
+                "id": 333668,
+                "title": "Excalibur Heart",
+                "description": "ExcalHeart",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/230410/8b778cc0cf26c37b87ade031a481e8170cc33d36.png",
+                "cost": "1000",
+                "created": 1727471005,
+                "updated": 1729887097
+            },
+            {
+                "id": 333667,
+                "title": "Excalibur Excited",
+                "description": "ExcalExcited",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/230410/0d9690be63535b3d7934eb2f5a46b95b94944f3d.png",
+                "cost": "1000",
+                "created": 1727470802,
+                "updated": 1729887097
+            },
+            {
+                "id": 333666,
+                "title": "Excalibur Crying",
+                "description": "ExcalCry",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/230410/0be4e4406fca913ec252dec27bc49a1895b37a69.png",
+                "cost": "1000",
+                "created": 1727470736,
+                "updated": 1729887097
+            },
+            {
+                "id": 333662,
+                "title": "Excalibur Waving",
+                "description": "ExalWave",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/230410/878d4d4b25021fc1a4dd4575b6808d550bc8969e.png",
+                "cost": "1000",
+                "created": 1727470602,
+                "updated": 1729887097
+            },
+            {
+                "id": 333664,
+                "title": "Excalibur Dancing",
+                "description": "ExcalDancing",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/230410/1840181725524ef82f02e53dc0aa6c2bd5c8e116.png",
+                "cost": "1000",
+                "created": 1727470569,
+                "updated": 1729887097
+            },
+            {
+                "id": 333663,
+                "title": "Excalibur Stunned",
+                "description": "ExcalStunned",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/230410/281361f6c65191856d27636f7956559512c48953.png",
+                "cost": "1000",
+                "created": 1727470327,
+                "updated": 1729887097
             }
         ],
         "gameprofile": [
@@ -66697,6 +66769,14 @@
             78770,
             78769,
             78768,
+            333693,
+            333668,
+            333667,
+            333666,
+            333665,
+            333664,
+            333663,
+            333662,
             333497,
             333496,
             333495,
