@@ -4,8 +4,8 @@
         "mini": 863,
         "background": 1090,
         "frame": 1276,
-        "sticker": 1667,
-        "gameprofile": 95,
+        "sticker": 1674,
+        "gameprofile": 96,
         "keyboard": 8,
         "startup": 32
     },
@@ -60311,6 +60311,69 @@
                 "cost": "1000",
                 "created": 1727470327,
                 "updated": 1729887097
+            },
+            {
+                "id": 334218,
+                "title": "Skullpop",
+                "description": "Skullpop",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3257180/3258e7c0f681c2987a6336927a541d568d46f95b.png",
+                "cost": "0",
+                "created": 1730133979,
+                "updated": 1730148781
+            },
+            {
+                "id": 334219,
+                "title": "Ghostcake",
+                "description": "Ghostcake",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3257180/1ddc6c38b0ffa7d71454de0a42eb77d3de1ac359.png",
+                "cost": "0",
+                "created": 1729289413,
+                "updated": 1730148781
+            },
+            {
+                "id": 334217,
+                "title": "Hypnopop",
+                "description": "Hypnopop",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3257180/b537b6e87c59ae40187057e3dba4c0fe8e5139f2.png",
+                "cost": "0",
+                "created": 1729289413,
+                "updated": 1730148781
+            },
+            {
+                "id": 334216,
+                "title": "Gummy Snake",
+                "description": "Gummy Snake",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3257180/74dbbc1dcf96161263e039998a4ef39a9c7252ce.png",
+                "cost": "0",
+                "created": 1729289413,
+                "updated": 1730148781
+            },
+            {
+                "id": 334215,
+                "title": "Eye Candy",
+                "description": "Eye Candy",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3257180/c2c52efe71e314aa6cf5119c337f6edea6f2875e.png",
+                "cost": "0",
+                "created": 1729289413,
+                "updated": 1730148781
+            },
+            {
+                "id": 334214,
+                "title": "Candy Bar Monster",
+                "description": "Candy Bar Monster",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3257180/53503e858effc6701c7a8b1464d0081f554a6b1b.png",
+                "cost": "0",
+                "created": 1729289413,
+                "updated": 1730148781
+            },
+            {
+                "id": 334213,
+                "title": "Candy Corn Chomp",
+                "description": "Candy Corn Chomp",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3257180/d64ebe7bf74bd1f4f767bdcd9f08b56ec35f22ee.png",
+                "cost": "0",
+                "created": 1729289413,
+                "updated": 1730148781
             }
         ],
         "gameprofile": [
@@ -61129,6 +61192,15 @@
                 "cost": "10000",
                 "created": 1727816651,
                 "updated": 1727907068
+            },
+            {
+                "id": 334191,
+                "title": "The City Must Not Fall",
+                "description": "Frostpunk 2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1601580/7e62f586e03df8c1f3155b848b7e1c0c1d571400.jpg",
+                "cost": "10000",
+                "created": 1729605577,
+                "updated": 1730129342
             }
         ],
         "keyboard": [
@@ -66769,6 +66841,13 @@
             78770,
             78769,
             78768,
+            334219,
+            334218,
+            334217,
+            334216,
+            334215,
+            334214,
+            334213,
             333693,
             333668,
             333667,
@@ -68346,6 +68425,7 @@
         ],
         "gameprofile": [
             78784,
+            334191,
             315933,
             315263,
             302562,
