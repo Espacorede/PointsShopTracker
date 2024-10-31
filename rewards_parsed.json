@@ -3,7 +3,7 @@
         "avatar": 1962,
         "mini": 863,
         "background": 1090,
-        "frame": 1276,
+        "frame": 1277,
         "sticker": 1674,
         "gameprofile": 96,
         "keyboard": 8,
@@ -45736,6 +45736,15 @@
                 "cost": "2000",
                 "created": 1704956661,
                 "updated": 1729781871
+            },
+            {
+                "id": 334842,
+                "title": "Lots of Guns",
+                "description": "Lots of Guns",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2206270/b45ecf3d0f395bde15d018eb8a2b3445a3b51df6.png",
+                "cost": "2000",
+                "created": 1729637588,
+                "updated": 1730297509
             }
         ],
         "sticker": [
@@ -65479,6 +65488,7 @@
             78767,
             78766,
             78765,
+            334842,
             333501,
             333500,
             333371,
