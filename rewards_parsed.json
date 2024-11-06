@@ -1,10 +1,10 @@
 {
     "count": {
-        "avatar": 1970,
-        "mini": 872,
-        "background": 1099,
-        "frame": 1285,
-        "sticker": 1674,
+        "avatar": 1974,
+        "mini": 876,
+        "background": 1103,
+        "frame": 1289,
+        "sticker": 1680,
         "gameprofile": 97,
         "keyboard": 8,
         "startup": 32
@@ -17262,6 +17262,42 @@
                 "cost": "3000",
                 "created": 1730222419,
                 "updated": 1730390441
+            },
+            {
+                "id": 336398,
+                "title": "💓 Juggler Games - Passion",
+                "description": "Passion",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/4cb090230dcef56d2454f9ceae202dc15d96ea39.gif",
+                "cost": "3000",
+                "created": 1729939123,
+                "updated": 1730846856
+            },
+            {
+                "id": 336397,
+                "title": "🎮 Juggler Games - Hardcore Gamer",
+                "description": "Hardcore Gamer",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/f435223096fa2f816f12d77099a5fe90afa2a613.gif",
+                "cost": "3000",
+                "created": 1729939112,
+                "updated": 1730846856
+            },
+            {
+                "id": 336399,
+                "title": "🦁 Juggler Games - Courage",
+                "description": "Courage",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/e115365809beceee56e395f65d47ed605b57fff9.gif",
+                "cost": "3000",
+                "created": 1729939100,
+                "updated": 1730846856
+            },
+            {
+                "id": 336396,
+                "title": "🧠 Juggler Games - Brain",
+                "description": "Brain",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/cb3cde91d173e7c3467b2d2a8587bcccbc64bb37.gif",
+                "cost": "3000",
+                "created": 1729939089,
+                "updated": 1730846856
             }
         ],
         "mini": [
@@ -24984,6 +25020,42 @@
                 "cost": "2000",
                 "created": 1730112854,
                 "updated": 1730448081
+            },
+            {
+                "id": 336408,
+                "title": "🕸️ Juggler Games - Web of Gold",
+                "description": "Web of Gold",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/11a9b89cbf2b97b4e32005e9dfaa246b00f271e5.webm",
+                "cost": "2000",
+                "created": 1729938965,
+                "updated": 1730846856
+            },
+            {
+                "id": 336411,
+                "title": "🌊 Juggler Games - Scarlet Blue",
+                "description": "Scarlet Blue",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/f88880698de9c7b0016b6874cb6255bb2b1d9413.webm",
+                "cost": "2000",
+                "created": 1729938954,
+                "updated": 1730846856
+            },
+            {
+                "id": 336410,
+                "title": "💥 Juggler Games - Paperflies",
+                "description": "Paperflies",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/d9ef47d0b09a3e4bcf761a37f366a34f8aedea71.webm",
+                "cost": "2000",
+                "created": 1729938943,
+                "updated": 1730846856
+            },
+            {
+                "id": 336409,
+                "title": "🗝️ Juggler Games - Keys & Waves",
+                "description": "Keys & Waves",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/ffe3cc4f30e71142b98947228054ff06397d9975.webm",
+                "cost": "2000",
+                "created": 1729938931,
+                "updated": 1730846856
             }
         ],
         "background": [
@@ -34714,6 +34786,42 @@
                 "cost": "2000",
                 "created": 1730148437,
                 "updated": 1730448081
+            },
+            {
+                "id": 336404,
+                "title": "🕸️ Juggler Games - Web of Gold",
+                "description": "Web of Gold",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/b5ed49946eb16d6749a6277e64bb30e10cef7392.webm",
+                "cost": "2000",
+                "created": 1729938726,
+                "updated": 1730846856
+            },
+            {
+                "id": 336407,
+                "title": "🌊 Juggler Games - Scarlet Blue",
+                "description": "Scarlet Blue",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/c5da2da31c2ceefba9bded58d8cdf2bed6aaaa2e.webm",
+                "cost": "2000",
+                "created": 1729938709,
+                "updated": 1730846856
+            },
+            {
+                "id": 336406,
+                "title": "💥 Juggler Games - Paperflies",
+                "description": "Paperflies",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/e217c5d3232386d6d9676a1d04dbf73b3fe8c1b4.webm",
+                "cost": "2000",
+                "created": 1729938698,
+                "updated": 1730846856
+            },
+            {
+                "id": 336405,
+                "title": "🗝️ Juggler Games - Keys & Waves",
+                "description": "Keys & Waves",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/47a5ded126910c31c7a220ca9e7ad242f36a6b62.webm",
+                "cost": "2000",
+                "created": 1729938673,
+                "updated": 1730846856
             }
         ],
         "frame": [
@@ -46051,6 +46159,42 @@
                 "cost": "2000",
                 "created": 1730113010,
                 "updated": 1730448081
+            },
+            {
+                "id": 336403,
+                "title": "👻 Juggler Games - Soul Plasma",
+                "description": "Soul Plasma",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/f9d7b7fc83fb68edda416d8f82352df2c6104aa4.png",
+                "cost": "2000",
+                "created": 1729939061,
+                "updated": 1730846856
+            },
+            {
+                "id": 336400,
+                "title": "🔥 Juggler Games - Hellfire",
+                "description": "Hellfire",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/d730224c4d93973390b561aa7cc62cb325f78c65.png",
+                "cost": "2000",
+                "created": 1729939045,
+                "updated": 1730846856
+            },
+            {
+                "id": 336401,
+                "title": "👋 Juggler Games - Handy",
+                "description": "Handy",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/0a8f2aff19ee38cdbe3fcfeaf18bcf1fb33537b8.png",
+                "cost": "2000",
+                "created": 1729939033,
+                "updated": 1730846856
+            },
+            {
+                "id": 336402,
+                "title": "👹 Juggler Games - Dark Rays",
+                "description": "Dark Rays",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/e23f31361df900bc450371cddef730b3e3b89f9d.png",
+                "cost": "2000",
+                "created": 1729939017,
+                "updated": 1730846856
             }
         ],
         "sticker": [
@@ -60689,6 +60833,60 @@
                 "cost": "0",
                 "created": 1729289413,
                 "updated": 1730148781
+            },
+            {
+                "id": 336392,
+                "title": "😭 Juggler Games - Grim Sad",
+                "description": "Grim Sad",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/4be9eba08084fa996e2c102b7a93c50b2568767b.png",
+                "cost": "1000",
+                "created": 1730823955,
+                "updated": 1730846856
+            },
+            {
+                "id": 336395,
+                "title": "🌈 Juggler Games - Grim Rainbow",
+                "description": "Grim Rainbow",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/cdbfc15c2794d9bef3e663e95a9481feb3a77f25.png",
+                "cost": "1000",
+                "created": 1730823946,
+                "updated": 1730846856
+            },
+            {
+                "id": 336393,
+                "title": "🎉 Juggler Games - Grim Party",
+                "description": "Grim Party",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/884990f6c5e0456c424ea767552b4943375ea962.png",
+                "cost": "1000",
+                "created": 1730823936,
+                "updated": 1730846856
+            },
+            {
+                "id": 336394,
+                "title": "💛 Juggler Games - Grim Heart",
+                "description": "Grim Heart",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/3bc1bef6f2d2808d1c540255f513d1a1c085819a.png",
+                "cost": "1000",
+                "created": 1730823923,
+                "updated": 1730846856
+            },
+            {
+                "id": 336391,
+                "title": "😡 Juggler Games - Grim Fury",
+                "description": "Grim Fury",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/9df7615cdea894f75afd66b34c36891cf23aaa30.png",
+                "cost": "1000",
+                "created": 1730823914,
+                "updated": 1730846856
+            },
+            {
+                "id": 336390,
+                "title": "🎁 Juggler Games - Grim Gift",
+                "description": "Grim Gift",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2291700/50020458b73fd425d62242d7c0726415195442d4.png",
+                "cost": "1000",
+                "created": 1730823875,
+                "updated": 1730846856
             }
         ],
         "gameprofile": [
@@ -61879,6 +62077,10 @@
             78780,
             78779,
             78778,
+            336399,
+            336398,
+            336397,
+            336396,
             335158,
             335157,
             335156,
@@ -63859,6 +64061,10 @@
             78807,
             78806,
             78805,
+            336411,
+            336410,
+            336409,
+            336408,
             335311,
             335310,
             335172,
@@ -64734,6 +64940,10 @@
             78811,
             78810,
             78809,
+            336407,
+            336406,
+            336405,
+            336404,
             335309,
             335308,
             335165,
@@ -65829,6 +66039,10 @@
             78767,
             78766,
             78765,
+            336403,
+            336402,
+            336401,
+            336400,
             335315,
             335314,
             335313,
@@ -67200,6 +67414,12 @@
             78770,
             78769,
             78768,
+            336395,
+            336394,
+            336393,
+            336392,
+            336391,
+            336390,
             334219,
             334218,
             334217,
