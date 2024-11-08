@@ -1,10 +1,10 @@
 {
     "count": {
-        "avatar": 1977,
-        "mini": 876,
+        "avatar": 1981,
+        "mini": 877,
         "background": 1105,
         "frame": 1294,
-        "sticker": 1680,
+        "sticker": 1691,
         "gameprofile": 97,
         "keyboard": 8,
         "startup": 32
@@ -17325,6 +17325,42 @@
                 "cost": "3000",
                 "created": 1728485382,
                 "updated": 1730905169
+            },
+            {
+                "id": 337166,
+                "title": "StickyCato",
+                "description": "StickyCato",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1999520/5c43cf5c046438fba56cc5bf32fbde98ea3ebb14.gif",
+                "cost": "3000",
+                "created": 1729763452,
+                "updated": 1731056586
+            },
+            {
+                "id": 337165,
+                "title": "RollingCato",
+                "description": "RollingCato",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1999520/38128ffb0a3a5060fb6cbef59897a324e86b4d1f.gif",
+                "cost": "3000",
+                "created": 1729763418,
+                "updated": 1731056586
+            },
+            {
+                "id": 337147,
+                "title": "Momo",
+                "description": "Momo",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1217060/d9315471d7d3d8ac7ce346fc05627bac16748192.gif",
+                "cost": "3000",
+                "created": 1727596007,
+                "updated": 1731056361
+            },
+            {
+                "id": 337148,
+                "title": "Lyn",
+                "description": "Lyn",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1217060/4d15b3c69508a702a46a381ceca5d0dbe1695706.gif",
+                "cost": "3000",
+                "created": 1727595725,
+                "updated": 1731056361
             }
         ],
         "mini": [
@@ -25083,6 +25119,15 @@
                 "cost": "2000",
                 "created": 1729938931,
                 "updated": 1730846856
+            },
+            {
+                "id": 337155,
+                "title": "Multicato",
+                "description": "Multicato",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1999520/1da8d82d4ae01d9bbf82ac8f1c2c516c045c0c5e.webm",
+                "cost": "2000",
+                "created": 1728909897,
+                "updated": 1731056586
             }
         ],
         "background": [
@@ -60977,6 +61022,105 @@
                 "cost": "1000",
                 "created": 1730823875,
                 "updated": 1730846856
+            },
+            {
+                "id": 337157,
+                "title": "Cato_Slap",
+                "description": "Cato_Slap",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1999520/9ff87136a7b7e112165aa5ffd3eaf28415a14707.png",
+                "cost": "1000",
+                "created": 1729762915,
+                "updated": 1731056586
+            },
+            {
+                "id": 337158,
+                "title": "Cato_Shy",
+                "description": "Cato_Shy",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1999520/e4c54918352361769f0daaecdd0c57b54693272e.png",
+                "cost": "1000",
+                "created": 1729762889,
+                "updated": 1731056586
+            },
+            {
+                "id": 337154,
+                "title": "Cato_Run",
+                "description": "Cato_Run",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1999520/b9df3b032177b717ce46b988e88f9a4e363ada79.png",
+                "cost": "1000",
+                "created": 1729762803,
+                "updated": 1731056586
+            },
+            {
+                "id": 337156,
+                "title": "Cato_Dance",
+                "description": "Cato_Dance",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1999520/32c2acde83968cd6d6bfa1ee9b9f11cec89f82c2.png",
+                "cost": "1000",
+                "created": 1729762476,
+                "updated": 1731056586
+            },
+            {
+                "id": 337159,
+                "title": "Cato_Confusion",
+                "description": "Cato_Confusion",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1999520/8671cf9b63b9eee7cf190ebea6fc19a767bb4906.png",
+                "cost": "1000",
+                "created": 1729762320,
+                "updated": 1731056586
+            },
+            {
+                "id": 337149,
+                "title": "Lyn Love",
+                "description": "Lyn Love",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1217060/fce927168f68979bf9c7fc8765cd94b9de30a3e9.png",
+                "cost": "1000",
+                "created": 1727595943,
+                "updated": 1731056361
+            },
+            {
+                "id": 337146,
+                "title": "Momo Confused",
+                "description": "Momo Confused",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1217060/b8c64c0149225e492b39348a62614aca1a571a6a.png",
+                "cost": "1000",
+                "created": 1727595870,
+                "updated": 1731056361
+            },
+            {
+                "id": 337150,
+                "title": "Momo Interesting",
+                "description": "Momo Interesting",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1217060/78df8fff3c73008f111872c5012cb698cf181693.png",
+                "cost": "1000",
+                "created": 1727351810,
+                "updated": 1731056361
+            },
+            {
+                "id": 337153,
+                "title": "Momo Help",
+                "description": "Momo Help",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1217060/6571122b76313ea43fb1978070fe5b01db099912.png",
+                "cost": "1000",
+                "created": 1727351566,
+                "updated": 1731056361
+            },
+            {
+                "id": 337152,
+                "title": "Lyn Dislike",
+                "description": "Lyn Dislike",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1217060/e327c4470f3b291c2403c546b2cd35f33316287a.png",
+                "cost": "1000",
+                "created": 1727351182,
+                "updated": 1731056361
+            },
+            {
+                "id": 337151,
+                "title": "Lyn Feel Free",
+                "description": "Lyn Feel Free",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1217060/2b944333c0f35c701e5324a98c85b73558be487e.png",
+                "cost": "1000",
+                "created": 1727351061,
+                "updated": 1731056361
             }
         ],
         "gameprofile": [
@@ -62167,6 +62311,10 @@
             78780,
             78779,
             78778,
+            337166,
+            337165,
+            337148,
+            337147,
             336399,
             336398,
             336397,
@@ -64154,6 +64302,7 @@
             78807,
             78806,
             78805,
+            337155,
             336411,
             336410,
             336409,
@@ -67514,6 +67663,17 @@
             78770,
             78769,
             78768,
+            337159,
+            337158,
+            337157,
+            337156,
+            337154,
+            337153,
+            337152,
+            337151,
+            337150,
+            337149,
+            337146,
             336395,
             336394,
             336393,
