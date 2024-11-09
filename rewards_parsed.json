@@ -2,7 +2,7 @@
     "count": {
         "avatar": 1981,
         "mini": 877,
-        "background": 1105,
+        "background": 1106,
         "frame": 1294,
         "sticker": 1691,
         "gameprofile": 97,
@@ -34912,6 +34912,15 @@
                 "cost": "2000",
                 "created": 1729068669,
                 "updated": 1730905169
+            },
+            {
+                "id": 337245,
+                "title": "At the Drunken Mare Tavern",
+                "description": "Таверна (Анимированный фон)",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1554260/adf1743768f8782792c000548ea170cd3e876fde.webm",
+                "cost": "2000",
+                "created": 1730913814,
+                "updated": 1731074401
             }
         ],
         "frame": [
@@ -65182,6 +65191,7 @@
             78811,
             78810,
             78809,
+            337245,
             336407,
             336406,
             336405,
