@@ -1,10 +1,10 @@
 {
     "count": {
-        "avatar": 1981,
+        "avatar": 1983,
         "mini": 877,
         "background": 1106,
-        "frame": 1294,
-        "sticker": 1691,
+        "frame": 1296,
+        "sticker": 1696,
         "gameprofile": 97,
         "keyboard": 8,
         "startup": 32
@@ -17361,6 +17361,24 @@
                 "cost": "3000",
                 "created": 1727595725,
                 "updated": 1731056361
+            },
+            {
+                "id": 337799,
+                "title": "The Judgment Avatar",
+                "description": "The Judgment Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/861330/8de3e0b4f103c8bf61f8ff6a94ab4ec3d32c50cf.gif",
+                "cost": "3000",
+                "created": 1729154089,
+                "updated": 1731325263
+            },
+            {
+                "id": 337798,
+                "title": "Sleeping Maw Avatar",
+                "description": "Sleeping Maw",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/861330/6d85ff73f6b5eeaebaacbab18d869ecc5b5bf5f9.gif",
+                "cost": "3000",
+                "created": 1729154044,
+                "updated": 1731325263
             }
         ],
         "mini": [
@@ -46339,6 +46357,24 @@
                 "cost": "2000",
                 "created": 1729070938,
                 "updated": 1730905169
+            },
+            {
+                "id": 337797,
+                "title": "Gold Frame",
+                "description": "Gold Frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/861330/f42c2c8a93293478610b4f6ad1edc8d0bfc40bea.png",
+                "cost": "2000",
+                "created": 1728995097,
+                "updated": 1731325263
+            },
+            {
+                "id": 337796,
+                "title": "Metal Frame",
+                "description": "Metal Frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/861330/16420ca1a62296d3b277293feb4662df1ca5bb40.png",
+                "cost": "2000",
+                "created": 1728994959,
+                "updated": 1731325263
             }
         ],
         "sticker": [
@@ -61130,6 +61166,51 @@
                 "cost": "1000",
                 "created": 1727351061,
                 "updated": 1731056361
+            },
+            {
+                "id": 337800,
+                "title": "Sleeping Maw",
+                "description": "Sleeping Maw",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/861330/7beb1277141547805ffc842d35f6b5b3dd395bbb.png",
+                "cost": "1000",
+                "created": 1729154067,
+                "updated": 1731325263
+            },
+            {
+                "id": 337804,
+                "title": "Tweety Birds",
+                "description": "Tweety Birds",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/861330/330da8d863c458a1b828548808a033f80b4255d3.png",
+                "cost": "1000",
+                "created": 1728996865,
+                "updated": 1731325263
+            },
+            {
+                "id": 337803,
+                "title": "Snaptor",
+                "description": "Snaptor",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/861330/9637e91d77359e72d707995b65dd5ba176d4e614.png",
+                "cost": "1000",
+                "created": 1728996720,
+                "updated": 1731325263
+            },
+            {
+                "id": 337802,
+                "title": "Mad Lad",
+                "description": "Mad Lad",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/861330/e16f61c55e3974040c511aceb544fde0ae36eb3b.png",
+                "cost": "1000",
+                "created": 1728996578,
+                "updated": 1731325263
+            },
+            {
+                "id": 337801,
+                "title": "Sascatch",
+                "description": "Sascatch",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/861330/32f0129459888350e800f4a9b50e7d575dffa0b7.png",
+                "cost": "1000",
+                "created": 1728996444,
+                "updated": 1731325263
             }
         ],
         "gameprofile": [
@@ -62320,6 +62401,8 @@
             78780,
             78779,
             78778,
+            337799,
+            337798,
             337166,
             337165,
             337148,
@@ -66293,6 +66376,8 @@
             78767,
             78766,
             78765,
+            337797,
+            337796,
             336403,
             336402,
             336401,
@@ -67673,6 +67758,11 @@
             78770,
             78769,
             78768,
+            337804,
+            337803,
+            337802,
+            337801,
+            337800,
             337159,
             337158,
             337157,
