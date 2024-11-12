@@ -1,10 +1,10 @@
 {
     "count": {
-        "avatar": 1983,
-        "mini": 877,
+        "avatar": 1985,
+        "mini": 878,
         "background": 1106,
-        "frame": 1296,
-        "sticker": 1696,
+        "frame": 1298,
+        "sticker": 1701,
         "gameprofile": 97,
         "keyboard": 8,
         "startup": 32
@@ -17379,6 +17379,24 @@
                 "cost": "3000",
                 "created": 1729154044,
                 "updated": 1731325263
+            },
+            {
+                "id": 336076,
+                "title": "Chopping Chef",
+                "description": "Chopping Chef",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3099220/f8a3e4bcffd6a1b37bc3903e5ce2deaaf9938f27.gif",
+                "cost": "0",
+                "created": 1731368561,
+                "updated": 1731368569
+            },
+            {
+                "id": 338044,
+                "title": "Tlipoca",
+                "description": "特莉波卡",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2194530/cbb9975540917388d28f66420cc60357331b94a0.gif",
+                "cost": "3000",
+                "created": 1730700906,
+                "updated": 1731389915
             }
         ],
         "mini": [
@@ -25146,6 +25164,15 @@
                 "cost": "2000",
                 "created": 1728909897,
                 "updated": 1731056586
+            },
+            {
+                "id": 338046,
+                "title": "Tlipoca Miniprofile",
+                "description": "特莉波卡变身",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2194530/e8c5088acf9a27fbc179581ea278009fdf56db9d.webm",
+                "cost": "2000",
+                "created": 1730702047,
+                "updated": 1731389915
             }
         ],
         "background": [
@@ -46375,6 +46402,24 @@
                 "cost": "2000",
                 "created": 1728994959,
                 "updated": 1731325263
+            },
+            {
+                "id": 336075,
+                "title": "Bountiful Border",
+                "description": "Bountiful Border",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3099220/1bdf31684c13fcd253273239e734acab3ca37149.png",
+                "cost": "0",
+                "created": 1731368561,
+                "updated": 1731368569
+            },
+            {
+                "id": 338045,
+                "title": "Ghost Frame",
+                "description": "幽灵头像框",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2194530/4422c6f00926bda5f00ad6b560d867d3739621b6.png",
+                "cost": "2000",
+                "created": 1730701988,
+                "updated": 1731389915
             }
         ],
         "sticker": [
@@ -61211,6 +61256,51 @@
                 "cost": "1000",
                 "created": 1728996444,
                 "updated": 1731325263
+            },
+            {
+                "id": 336074,
+                "title": "Simmering Pot",
+                "description": "Simmering Pot",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3099220/11aaa8c0a629b45c191d158ce66f82c9ec8e2909.png",
+                "cost": "0",
+                "created": 1731368561,
+                "updated": 1731368569
+            },
+            {
+                "id": 338049,
+                "title": "Little Leaf Sticker",
+                "description": "小叶子贴纸",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2194530/37c45a0b6b537465239847773c0291c78c3c596d.png",
+                "cost": "1000",
+                "created": 1730883293,
+                "updated": 1731389915
+            },
+            {
+                "id": 338050,
+                "title": "Haa Lou Ling Sticker",
+                "description": "霞露零贴纸",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2194530/ab1cf46d4d6ba0dcf11eb50d1e1ad6aff7931abc.png",
+                "cost": "1000",
+                "created": 1730883153,
+                "updated": 1731389915
+            },
+            {
+                "id": 338047,
+                "title": "Tlipoca Sticker",
+                "description": "特莉波卡贴纸",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2194530/0874ffa50e09493c23ee13ede539d86b7cdbcd90.png",
+                "cost": "1000",
+                "created": 1730703230,
+                "updated": 1731389915
+            },
+            {
+                "id": 338048,
+                "title": "Yevna Sticker",
+                "description": "耶芙娜贴纸",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2194530/41d2095eeb050aa085c50671acd5015866396843.png",
+                "cost": "1000",
+                "created": 1730703170,
+                "updated": 1731389915
             }
         ],
         "gameprofile": [
@@ -62401,6 +62491,7 @@
             78780,
             78779,
             78778,
+            338044,
             337799,
             337798,
             337166,
@@ -62414,6 +62505,7 @@
             336277,
             336276,
             336275,
+            336076,
             335158,
             335157,
             335156,
@@ -64394,6 +64486,7 @@
             78807,
             78806,
             78805,
+            338046,
             337155,
             336411,
             336410,
@@ -66376,6 +66469,7 @@
             78767,
             78766,
             78765,
+            338045,
             337797,
             337796,
             336403,
@@ -66387,6 +66481,7 @@
             336280,
             336279,
             336278,
+            336075,
             335315,
             335314,
             335313,
@@ -67758,6 +67853,10 @@
             78770,
             78769,
             78768,
+            338050,
+            338049,
+            338048,
+            338047,
             337804,
             337803,
             337802,
@@ -67780,6 +67879,7 @@
             336392,
             336391,
             336390,
+            336074,
             334219,
             334218,
             334217,
