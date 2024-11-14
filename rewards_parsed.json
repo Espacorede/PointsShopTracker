@@ -1,11 +1,11 @@
 {
     "count": {
         "avatar": 1985,
-        "mini": 878,
-        "background": 1106,
-        "frame": 1298,
+        "mini": 880,
+        "background": 1109,
+        "frame": 1301,
         "sticker": 1701,
-        "gameprofile": 97,
+        "gameprofile": 98,
         "keyboard": 8,
         "startup": 32
     },
@@ -25173,6 +25173,24 @@
                 "cost": "2000",
                 "created": 1730702047,
                 "updated": 1731389915
+            },
+            {
+                "id": 338550,
+                "title": "The Elder Scrolls Online - Heroes Mini Background",
+                "description": "The Elder Scrolls Online - Heroes Mini",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/306130/12ac59cfaf75c5b18c9099fc5afc65851ce144eb.webm",
+                "cost": "2000",
+                "created": 1725538652,
+                "updated": 1731527892
+            },
+            {
+                "id": 338549,
+                "title": "The Elder Scrolls Online - 10 Years Logo Mini Background",
+                "description": "The Elder Scrolls Online - 10 Years Logo Mini",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/306130/c5eda3a9058aaa409448c9c9661bb53b4298b5c5.webm",
+                "cost": "2000",
+                "created": 1725538525,
+                "updated": 1731527892
             }
         ],
         "background": [
@@ -34966,6 +34984,33 @@
                 "cost": "2000",
                 "created": 1730913814,
                 "updated": 1731074401
+            },
+            {
+                "id": 338551,
+                "title": "The Elder Scrolls Online - Aldmeri Dominion Background",
+                "description": "The Elder Scrolls Online - Aldmeri Background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/306130/f9aa32b150dd7a5fb8f7472b9270c2445133fbc1.webm",
+                "cost": "2000",
+                "created": 1731430017,
+                "updated": 1731527892
+            },
+            {
+                "id": 338553,
+                "title": "The Elder Scrolls Online - Ebonheart Pact Background",
+                "description": "The Elder Scrolls Online - Ebonhea Background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/306130/cced0a75a50cd331eb64a6958b734b54fab460fd.webm",
+                "cost": "2000",
+                "created": 1731429930,
+                "updated": 1731527892
+            },
+            {
+                "id": 338552,
+                "title": "The Elder Scrolls Online - Daggerfall Covenant Background",
+                "description": "The Elder Scrolls Online - Daggerf Background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/306130/8c2c5336dbf1964bdd5709dc968dc5e851f94d2d.webm",
+                "cost": "2000",
+                "created": 1731429868,
+                "updated": 1731527892
             }
         ],
         "frame": [
@@ -46420,6 +46465,33 @@
                 "cost": "2000",
                 "created": 1730701988,
                 "updated": 1731389915
+            },
+            {
+                "id": 338548,
+                "title": "The Elder Scrolls Online - Ebonheart Pact Frame",
+                "description": "The Elder Scrolls Online - Ebonheart Frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/306130/676935722d119686e7e706cd149969bab40e27fb.png",
+                "cost": "2000",
+                "created": 1726754936,
+                "updated": 1731527892
+            },
+            {
+                "id": 338547,
+                "title": "The Elder Scrolls Online - Daggerfall Covenant Frame",
+                "description": "The Elder Scrolls Online - Daggerfall Frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/306130/c94c6785b567f245f568f40d47681f31b0b35cae.png",
+                "cost": "2000",
+                "created": 1726754819,
+                "updated": 1731527892
+            },
+            {
+                "id": 338546,
+                "title": "The Elder Scrolls Online - Aldmeri Dominion Frame",
+                "description": "The Elder Scrolls Online - Aldmeri Frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/306130/d96a526733d1d8f3cd0e03f2b58bdd7d1b2cd5d3.png",
+                "cost": "2000",
+                "created": 1726754783,
+                "updated": 1731527892
             }
         ],
         "sticker": [
@@ -62137,6 +62209,15 @@
                 "cost": "10000",
                 "created": 1730327714,
                 "updated": 1730390441
+            },
+            {
+                "id": 338541,
+                "title": "The Elder Scrolls Online Profile",
+                "description": "The Elder Scrolls Online Profile",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/306130/d0508cd1e5f3f1c1b38545ebff0834c92e21cdf1.jpg",
+                "cost": "10000",
+                "created": 1724160668,
+                "updated": 1731527892
             }
         ],
         "keyboard": [
@@ -64486,6 +64567,8 @@
             78807,
             78806,
             78805,
+            338550,
+            338549,
             338046,
             337155,
             336411,
@@ -65367,6 +65450,9 @@
             78811,
             78810,
             78809,
+            338553,
+            338552,
+            338551,
             337245,
             336407,
             336406,
@@ -66469,6 +66555,9 @@
             78767,
             78766,
             78765,
+            338548,
+            338547,
+            338546,
             338045,
             337797,
             337796,
@@ -69464,6 +69553,7 @@
         ],
         "gameprofile": [
             78784,
+            338541,
             335173,
             334191,
             315933,
