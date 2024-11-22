@@ -1,6 +1,6 @@
 {
     "count": {
-        "avatar": 1989,
+        "avatar": 1990,
         "mini": 887,
         "background": 1123,
         "frame": 1311,
@@ -17433,6 +17433,15 @@
                 "cost": "3000",
                 "created": 1730984894,
                 "updated": 1731589372
+            },
+            {
+                "id": 340939,
+                "title": "Guard",
+                "description": "Guard",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2653920/d983e28b4374750d41bacfacc519f727f3273a56.gif",
+                "cost": "3000",
+                "created": 1730309453,
+                "updated": 1732221557
             }
         ],
         "mini": [
@@ -62941,6 +62950,7 @@
             78780,
             78779,
             78778,
+            340939,
             338904,
             338730,
             338729,
