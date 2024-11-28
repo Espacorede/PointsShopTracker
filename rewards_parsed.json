@@ -1,11 +1,11 @@
 {
     "count": {
-        "avatar": 1990,
+        "avatar": 1992,
         "mini": 887,
-        "background": 1123,
-        "frame": 1311,
+        "background": 1125,
+        "frame": 1312,
         "sticker": 1707,
-        "gameprofile": 98,
+        "gameprofile": 99,
         "keyboard": 8,
         "startup": 32
     },
@@ -17442,6 +17442,24 @@
                 "cost": "3000",
                 "created": 1730309453,
                 "updated": 1732221557
+            },
+            {
+                "id": 342140,
+                "title": "Fall Frolic",
+                "description": "Fall Frolic",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/b036c56af898fa4129423731f4edfaaf0b88f9cb.gif",
+                "cost": "3000",
+                "created": 1732648005,
+                "updated": 1732649619
+            },
+            {
+                "id": 342629,
+                "title": "Bellator with Slayer Sword",
+                "description": "Bellator 3",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1724770/27e2c624a72106402d0b386e2567a3ec56014709.gif",
+                "cost": "3000",
+                "created": 1732620188,
+                "updated": 1732780275
             }
         ],
         "mini": [
@@ -35245,6 +35263,24 @@
                 "cost": "2000",
                 "created": 1732043815,
                 "updated": 1732112234
+            },
+            {
+                "id": 342628,
+                "title": "Bellator in Castle",
+                "description": "Bellator in Castle",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1724770/958ff88d02feeca7e6b7f4f88433330f92b70d4a.webm",
+                "cost": "2000",
+                "created": 1732690194,
+                "updated": 1732780275
+            },
+            {
+                "id": 342139,
+                "title": "Silent Grove",
+                "description": "Silent Grove",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/1b5e3d3e6ca4d6c49d98842173069e74d2a3acd1.webm",
+                "cost": "2000",
+                "created": 1732648005,
+                "updated": 1732649619
             }
         ],
         "frame": [
@@ -46816,6 +46852,15 @@
                 "cost": "2000",
                 "created": 1732043102,
                 "updated": 1732112234
+            },
+            {
+                "id": 342141,
+                "title": "Mellow Moment",
+                "description": "Mellow Moment",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/67498b6c05c5835f35f3eced8fa689cbbe0ac117.png",
+                "cost": "2000",
+                "created": 1732648005,
+                "updated": 1732649619
             }
         ],
         "sticker": [
@@ -62596,6 +62641,15 @@
                 "cost": "10000",
                 "created": 1724160668,
                 "updated": 1731527892
+            },
+            {
+                "id": 342134,
+                "title": "Autumn Gathering",
+                "description": "Autumn Gathering",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/cc768c4652095733c57ef228e70a030a8ff97985.jpg",
+                "cost": "5000",
+                "created": 1732648005,
+                "updated": 1732649620
             }
         ],
         "keyboard": [
@@ -62950,6 +63004,8 @@
             78780,
             78779,
             78778,
+            342629,
+            342140,
             340939,
             338904,
             338730,
@@ -65840,6 +65896,8 @@
             78811,
             78810,
             78809,
+            342628,
+            342139,
             340328,
             340327,
             339830,
@@ -66959,6 +67017,7 @@
             78767,
             78766,
             78765,
+            342141,
             340334,
             340333,
             340332,
@@ -69973,6 +70032,7 @@
         ],
         "gameprofile": [
             78784,
+            342134,
             338541,
             335173,
             334191,
