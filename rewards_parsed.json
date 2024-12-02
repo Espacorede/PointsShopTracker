@@ -2,7 +2,7 @@
     "count": {
         "avatar": 1995,
         "mini": 888,
-        "background": 1126,
+        "background": 1127,
         "frame": 1315,
         "sticker": 1709,
         "gameprofile": 99,
@@ -35326,6 +35326,15 @@
                 "cost": "2000",
                 "created": 1732657388,
                 "updated": 1732888863
+            },
+            {
+                "id": 343376,
+                "title": "Cat Puns Union",
+                "description": "Cat Puns Union",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/71c095ede63839edab51a8c61755410e5d7263b4.webm",
+                "cost": "2000",
+                "created": 1732863313,
+                "updated": 1733126405
             }
         ],
         "frame": [
@@ -65990,6 +65999,7 @@
             78811,
             78810,
             78809,
+            343376,
             342935,
             342628,
             342139,
