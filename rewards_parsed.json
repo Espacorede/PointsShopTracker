@@ -1,10 +1,10 @@
 {
     "count": {
-        "avatar": 1995,
+        "avatar": 1998,
         "mini": 888,
         "background": 1127,
-        "frame": 1315,
-        "sticker": 1709,
+        "frame": 1316,
+        "sticker": 1718,
         "gameprofile": 99,
         "keyboard": 8,
         "startup": 32
@@ -17487,6 +17487,33 @@
                 "cost": "3000",
                 "created": 1731559927,
                 "updated": 1732932889
+            },
+            {
+                "id": 344361,
+                "title": "Winking Skull",
+                "description": "Winking Skull",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1155650/0fe3c7af50ec5801fc247ba7732da919e80b66af.gif",
+                "cost": "3000",
+                "created": 1733089818,
+                "updated": 1733395461
+            },
+            {
+                "id": 344360,
+                "title": "Archer",
+                "description": "Archer",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1155650/29f6be8dc825b8a0b7c7096dca4fe964c1b6ac5e.gif",
+                "cost": "3000",
+                "created": 1732999224,
+                "updated": 1733395461
+            },
+            {
+                "id": 344359,
+                "title": "ShadyMan",
+                "description": "ShadyMan",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1155650/b3d73cdc3507cddc772f0360194d788dbf666840.gif",
+                "cost": "3000",
+                "created": 1732984637,
+                "updated": 1733395461
             }
         ],
         "mini": [
@@ -46942,6 +46969,15 @@
                 "cost": "2000",
                 "created": 1731561061,
                 "updated": 1732932889
+            },
+            {
+                "id": 344358,
+                "title": "Chained Frame",
+                "description": "Chained Frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1155650/e2c64553db571f80d63985146a001fef3decbe67.png",
+                "cost": "2000",
+                "created": 1732832516,
+                "updated": 1733395461
             }
         ],
         "sticker": [
@@ -61895,6 +61931,87 @@
                 "cost": "1000",
                 "created": 1731948971,
                 "updated": 1732888863
+            },
+            {
+                "id": 342133,
+                "title": "Sweet Slice",
+                "description": "Sweet Slice",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/41eda11d4172a13a3189c3f3098abdfae547d9f9.png",
+                "cost": "1000",
+                "created": 1732648005,
+                "updated": 1732649619
+            },
+            {
+                "id": 342132,
+                "title": "Forest Fungi",
+                "description": "Forest Fungi",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/cfdc7394a7302bc6918dff62549e818c2c629601.png",
+                "cost": "1000",
+                "created": 1732648005,
+                "updated": 1732649619
+            },
+            {
+                "id": 342131,
+                "title": "Cider Sip",
+                "description": "Cider Sip",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/027488f666a48ddb1d5b71f0dfc2cd3b2785a65d.png",
+                "cost": "1000",
+                "created": 1732648005,
+                "updated": 1732649619
+            },
+            {
+                "id": 342130,
+                "title": "Falling Foliage",
+                "description": "Falling Foliage",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/121fff68e968a97142ff57a99b11cb69245df203.png",
+                "cost": "1000",
+                "created": 1732648005,
+                "updated": 1732649619
+            },
+            {
+                "id": 342129,
+                "title": "Pumpkin Gnome",
+                "description": "Pumpkin Gnome",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/eb76d2a98f004b8c8f9b7055b8ee56ba098bdbc4.png",
+                "cost": "1000",
+                "created": 1732648005,
+                "updated": 1732649619
+            },
+            {
+                "id": 342128,
+                "title": "Golden Glow",
+                "description": "Golden Glow",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/ebf5828b19d6b30e90228d2cc25f2d9b71a635cb.png",
+                "cost": "1000",
+                "created": 1732648005,
+                "updated": 1732649619
+            },
+            {
+                "id": 342127,
+                "title": "Fall Fawn",
+                "description": "Fall Fawn",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/7aa51cb43279d3eaa01c0df4ecde57cff9ce9778.png",
+                "cost": "1000",
+                "created": 1732648005,
+                "updated": 1732649619
+            },
+            {
+                "id": 342126,
+                "title": "Harvest Hare",
+                "description": "Harvest Hare",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/e5d2c62d72fd99fb360f35aefd389d04310f393c.png",
+                "cost": "1000",
+                "created": 1732648005,
+                "updated": 1732649619
+            },
+            {
+                "id": 342125,
+                "title": "Autumn Acorn",
+                "description": "Autumn Acorn",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2861700/b82bcceb454528bbc9ae12aac53ab651704b8de2.png",
+                "cost": "1000",
+                "created": 1732648005,
+                "updated": 1732649619
             }
         ],
         "gameprofile": [
@@ -63103,6 +63220,9 @@
             78780,
             78779,
             78778,
+            344361,
+            344360,
+            344359,
             343057,
             343055,
             342932,
@@ -67122,6 +67242,7 @@
             78767,
             78766,
             78765,
+            344358,
             343056,
             342937,
             342933,
@@ -68525,6 +68646,15 @@
             78768,
             342938,
             342936,
+            342133,
+            342132,
+            342131,
+            342130,
+            342129,
+            342128,
+            342127,
+            342126,
+            342125,
             338915,
             338914,
             338913,
