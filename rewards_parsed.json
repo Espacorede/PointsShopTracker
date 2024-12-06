@@ -1,6 +1,6 @@
 {
     "count": {
-        "avatar": 1998,
+        "avatar": 1999,
         "mini": 888,
         "background": 1127,
         "frame": 1316,
@@ -17514,6 +17514,15 @@
                 "cost": "3000",
                 "created": 1732984637,
                 "updated": 1733395461
+            },
+            {
+                "id": 344422,
+                "title": "Taash",
+                "description": "Taash",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1845910/a66ab14f326efb15c52c71d38c36b94fcd229f47.gif",
+                "cost": "3000",
+                "created": 1730754880,
+                "updated": 1733409289
             }
         ],
         "mini": [
@@ -63220,6 +63229,7 @@
             78780,
             78779,
             78778,
+            344422,
             344361,
             344360,
             344359,
