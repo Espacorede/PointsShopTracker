@@ -1,9 +1,9 @@
 {
     "count": {
         "avatar": 1999,
-        "mini": 888,
-        "background": 1127,
-        "frame": 1316,
+        "mini": 889,
+        "background": 1128,
+        "frame": 1320,
         "sticker": 1718,
         "gameprofile": 99,
         "keyboard": 8,
@@ -25389,6 +25389,15 @@
                 "cost": "2000",
                 "created": 1732658536,
                 "updated": 1732888863
+            },
+            {
+                "id": 348693,
+                "title": "Authorities Animated Miniback",
+                "description": "spmaback2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3282670/2482f1335aba80f8945e1fa946312033e29ceb46.webm",
+                "cost": "2000",
+                "created": 1731928394,
+                "updated": 1733737989
             }
         ],
         "background": [
@@ -35371,6 +35380,15 @@
                 "cost": "2000",
                 "created": 1732863313,
                 "updated": 1733126405
+            },
+            {
+                "id": 348692,
+                "title": "Authorities Animated Back",
+                "description": "spback2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3282670/16678f47e2072ff1510db6caac06cc56a3f90041.webm",
+                "cost": "2000",
+                "created": 1731928265,
+                "updated": 1733737989
             }
         ],
         "frame": [
@@ -46987,6 +47005,42 @@
                 "cost": "2000",
                 "created": 1732832516,
                 "updated": 1733395461
+            },
+            {
+                "id": 348697,
+                "title": "Mauve Frame",
+                "description": "spframe4",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3282670/304694f4db2716136aeaf2ae7fd363bd09a3ef7c.png",
+                "cost": "2000",
+                "created": 1731928915,
+                "updated": 1733737989
+            },
+            {
+                "id": 348696,
+                "title": "Turquoise Frame",
+                "description": "spframe3",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3282670/f0121611899493da10636b9487f6696205491f5a.png",
+                "cost": "2000",
+                "created": 1731928722,
+                "updated": 1733737989
+            },
+            {
+                "id": 348695,
+                "title": "Azure Frame",
+                "description": "spframe2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3282670/aadfb18bbf2e0d0ac4ea5c37be0e66e8dc82b27a.png",
+                "cost": "2000",
+                "created": 1731928546,
+                "updated": 1733737989
+            },
+            {
+                "id": 348694,
+                "title": "Charcoal Frame",
+                "description": "spframe1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3282670/e01d7ad2cd2491d42dc8496bc53216dbaf9c1a37.png",
+                "cost": "2000",
+                "created": 1731928475,
+                "updated": 1733737989
             }
         ],
         "sticker": [
@@ -65238,6 +65292,7 @@
             78807,
             78806,
             78805,
+            348693,
             342934,
             340330,
             340329,
@@ -66129,6 +66184,7 @@
             78811,
             78810,
             78809,
+            348692,
             343376,
             342935,
             342628,
@@ -67252,6 +67308,10 @@
             78767,
             78766,
             78765,
+            348697,
+            348696,
+            348695,
+            348694,
             344358,
             343056,
             342937,
