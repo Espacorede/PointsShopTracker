@@ -1,8 +1,8 @@
 {
     "count": {
-        "avatar": 1999,
-        "mini": 891,
-        "background": 1130,
+        "avatar": 2003,
+        "mini": 896,
+        "background": 1133,
         "frame": 1324,
         "sticker": 1718,
         "gameprofile": 99,
@@ -17523,6 +17523,42 @@
                 "cost": "3000",
                 "created": 1730754880,
                 "updated": 1733409289
+            },
+            {
+                "id": 349390,
+                "title": "Excited Cat",
+                "description": "Excited Cat",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/8afd74681d03b13264547822d624185e29602486.gif",
+                "cost": "3000",
+                "created": 1733753723,
+                "updated": 1733994136
+            },
+            {
+                "id": 349389,
+                "title": "Dr Katz",
+                "description": "Dr Katz",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/28bf72eb67afc51d9f71a573f862ee81968f009e.gif",
+                "cost": "3000",
+                "created": 1733753660,
+                "updated": 1733994136
+            },
+            {
+                "id": 349398,
+                "title": "Crazy Scientist Cat",
+                "description": "Crazy Scientist Cat",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/0ae31e68381d2ec8cf48604ffba507e7cb7e1955.gif",
+                "cost": "3000",
+                "created": 1733753636,
+                "updated": 1733994136
+            },
+            {
+                "id": 349388,
+                "title": "Catstomer",
+                "description": "Catstomer",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/789c09521431bbe72269933272e0a76bce114fa7.gif",
+                "cost": "3000",
+                "created": 1733747904,
+                "updated": 1733994136
             }
         ],
         "mini": [
@@ -25416,6 +25452,51 @@
                 "cost": "2000",
                 "created": 1733752335,
                 "updated": 1733833257
+            },
+            {
+                "id": 349392,
+                "title": "The Meowfia",
+                "description": "The Meowfia",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/a3ab0eef5123ad3a7374b7956cbf248f139cb284.webm",
+                "cost": "2000",
+                "created": 1733753577,
+                "updated": 1733994136
+            },
+            {
+                "id": 349393,
+                "title": "Kitty Mag",
+                "description": "Kitty Mag",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/503e56094ebc799267226a0222531267a12f5cdf.webm",
+                "cost": "2000",
+                "created": 1733753556,
+                "updated": 1733994136
+            },
+            {
+                "id": 349391,
+                "title": "Cat Puns Union",
+                "description": "Cat Puns Union",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/149cc654c08cfa8a590719247ba5c9105f26920b.webm",
+                "cost": "2000",
+                "created": 1733753435,
+                "updated": 1733994136
+            },
+            {
+                "id": 349399,
+                "title": "Underground Factory Cat",
+                "description": "Underground Factory Cat",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/9f6a52865cb001fc2f0fb9d7a96bc3f12808d147.webm",
+                "cost": "2000",
+                "created": 1733747845,
+                "updated": 1733994136
+            },
+            {
+                "id": 349394,
+                "title": "CHONK",
+                "description": "CHONK",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/51494360e5b3489fcb1ce7c4b5133e79bed1b456.webm",
+                "cost": "2000",
+                "created": 1733746786,
+                "updated": 1733994136
             }
         ],
         "background": [
@@ -35425,6 +35506,33 @@
                 "cost": "2000",
                 "created": 1733752168,
                 "updated": 1733833257
+            },
+            {
+                "id": 349395,
+                "title": "The Meowfia",
+                "description": "The Meowfia",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/b4fee873dda3deed71bbc8a5241d5e54c5089d45.webm",
+                "cost": "2000",
+                "created": 1733753491,
+                "updated": 1733994136
+            },
+            {
+                "id": 349397,
+                "title": "Kitty Mag",
+                "description": "Kitty Mag",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/10fb14b71a5c0fa56a36510ab5b5d5480d966358.webm",
+                "cost": "2000",
+                "created": 1733753472,
+                "updated": 1733994136
+            },
+            {
+                "id": 349396,
+                "title": "CHONK",
+                "description": "CHONK",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1150090/b054f065afd03bd6ea91a042e44194472234ab6a.webm",
+                "cost": "2000",
+                "created": 1733753455,
+                "updated": 1733994136
             }
         ],
         "frame": [
@@ -63355,6 +63463,10 @@
             78780,
             78779,
             78778,
+            349398,
+            349390,
+            349389,
+            349388,
             344422,
             344361,
             344360,
@@ -65364,6 +65476,11 @@
             78807,
             78806,
             78805,
+            349399,
+            349394,
+            349393,
+            349392,
+            349391,
             348974,
             348973,
             348693,
@@ -66258,6 +66375,9 @@
             78811,
             78810,
             78809,
+            349397,
+            349396,
+            349395,
             348972,
             348971,
             348692,
