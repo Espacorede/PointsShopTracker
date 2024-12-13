@@ -4,7 +4,7 @@
         "mini": 896,
         "background": 1133,
         "frame": 1324,
-        "sticker": 1718,
+        "sticker": 1721,
         "gameprofile": 99,
         "keyboard": 8,
         "startup": 32
@@ -62255,6 +62255,33 @@
                 "cost": "1000",
                 "created": 1732648005,
                 "updated": 1732649619
+            },
+            {
+                "id": 349521,
+                "title": "Dancing Bin",
+                "description": "dancing_bin",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2173760/3e1ba7ae924758c1dfa821b2180724a8d7785cb0.png",
+                "cost": "1000",
+                "created": 1717328410,
+                "updated": 1734033468
+            },
+            {
+                "id": 349520,
+                "title": "Happy Bin",
+                "description": "happy_bin",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2173760/83f463bd008631afd43d977970d0ab5a8f427d1a.png",
+                "cost": "1000",
+                "created": 1717328329,
+                "updated": 1734033468
+            },
+            {
+                "id": 349519,
+                "title": "Bonk",
+                "description": "Flag Stick",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2173760/de8c867ac02cb886980b0fb632c722ece43cd1e5.png",
+                "cost": "1000",
+                "created": 1715626889,
+                "updated": 1734033468
             }
         ],
         "gameprofile": [
@@ -68914,6 +68941,9 @@
             78770,
             78769,
             78768,
+            349521,
+            349520,
+            349519,
             342938,
             342936,
             342133,
