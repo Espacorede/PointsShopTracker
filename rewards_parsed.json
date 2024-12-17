@@ -1,10 +1,10 @@
 {
     "count": {
-        "avatar": 2003,
-        "mini": 896,
-        "background": 1133,
-        "frame": 1324,
-        "sticker": 1721,
+        "avatar": 2004,
+        "mini": 898,
+        "background": 1134,
+        "frame": 1328,
+        "sticker": 1722,
         "gameprofile": 99,
         "keyboard": 8,
         "startup": 32
@@ -17559,6 +17559,15 @@
                 "cost": "3000",
                 "created": 1733747904,
                 "updated": 1733994136
+            },
+            {
+                "id": 350253,
+                "title": "Jeffrey Fire",
+                "description": "Jeffrey Fire",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/303430/4624954a6879f6f258f143a2762ecbe6931e9e25.gif",
+                "cost": "3000",
+                "created": 1731454688,
+                "updated": 1734381010
             }
         ],
         "mini": [
@@ -25497,6 +25506,24 @@
                 "cost": "2000",
                 "created": 1733746786,
                 "updated": 1733994136
+            },
+            {
+                "id": 351431,
+                "title": "Ink Ocean",
+                "description": "MPB 102",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1000470/8ff13008bda8e5eadfcb0e295b344422ddea6509.webm",
+                "cost": "2000",
+                "created": 1734293789,
+                "updated": 1734433361
+            },
+            {
+                "id": 350251,
+                "title": "Miniprofile Background Shimmer",
+                "description": "Miniprofile Background Shimmer",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/303430/ff1bf029fec8b0e956fa0d17f34261621b165839.webm",
+                "cost": "2000",
+                "created": 1731455655,
+                "updated": 1734381010
             }
         ],
         "background": [
@@ -35533,6 +35560,15 @@
                 "cost": "2000",
                 "created": 1733753455,
                 "updated": 1733994136
+            },
+            {
+                "id": 350250,
+                "title": "Profile Background Shimmer",
+                "description": "Profile Background Shimmer",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/303430/a34ef941c7240e98e1c397b23ab621bfa3e65c89.webm",
+                "cost": "2000",
+                "created": 1731454433,
+                "updated": 1734381010
             }
         ],
         "frame": [
@@ -47221,6 +47257,42 @@
                 "cost": "2000",
                 "created": 1733752559,
                 "updated": 1733833257
+            },
+            {
+                "id": 351430,
+                "title": "Ink Round Run",
+                "description": "AF 104",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1000470/9dc57a6d972e6fa7894fe8d21326a0bc62325213.png",
+                "cost": "2000",
+                "created": 1733861553,
+                "updated": 1734433361
+            },
+            {
+                "id": 351429,
+                "title": "The Eater",
+                "description": "AF 103",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1000470/8b34901710586c780161c4f7ae0fbc1b77b5dbca.png",
+                "cost": "2000",
+                "created": 1733856989,
+                "updated": 1734433361
+            },
+            {
+                "id": 350248,
+                "title": "Spinning Limo",
+                "description": "Spinning Limo",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/303430/94bb8d1be235972bb2e6f96a0f17f50fef014975.png",
+                "cost": "2000",
+                "created": 1731454647,
+                "updated": 1734381010
+            },
+            {
+                "id": 350249,
+                "title": "70's Rainbow Road",
+                "description": "70's Rainbow Road",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/303430/a1ef494208ced1a2ec6048125b5e57946dd24ce2.png",
+                "cost": "2000",
+                "created": 1731454620,
+                "updated": 1734381010
             }
         ],
         "sticker": [
@@ -62282,6 +62354,15 @@
                 "cost": "1000",
                 "created": 1715626889,
                 "updated": 1734033468
+            },
+            {
+                "id": 350252,
+                "title": "HotDogDad Sticker",
+                "description": "HotDogDad",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/303430/21bd0b2518dfc74f191331d9bb8e09065b54a397.png",
+                "cost": "1000",
+                "created": 1731454487,
+                "updated": 1734381010
             }
         ],
         "gameprofile": [
@@ -63490,6 +63571,7 @@
             78780,
             78779,
             78778,
+            350253,
             349398,
             349390,
             349389,
@@ -65503,6 +65585,8 @@
             78807,
             78806,
             78805,
+            351431,
+            350251,
             349399,
             349394,
             349393,
@@ -66402,6 +66486,7 @@
             78811,
             78810,
             78809,
+            350250,
             349397,
             349396,
             349395,
@@ -67531,6 +67616,10 @@
             78767,
             78766,
             78765,
+            351430,
+            351429,
+            350249,
+            350248,
             348978,
             348977,
             348976,
@@ -68941,6 +69030,7 @@
             78770,
             78769,
             78768,
+            350252,
             349521,
             349520,
             349519,
