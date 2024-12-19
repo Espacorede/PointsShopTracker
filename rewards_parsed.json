@@ -1,9 +1,9 @@
 {
     "count": {
-        "avatar": 2014,
-        "mini": 899,
-        "background": 1144,
-        "frame": 1331,
+        "avatar": 2020,
+        "mini": 906,
+        "background": 1150,
+        "frame": 1337,
         "sticker": 1725,
         "gameprofile": 99,
         "keyboard": 8,
@@ -17658,6 +17658,60 @@
                 "cost": "3000",
                 "created": 1731450934,
                 "updated": 1734491967
+            },
+            {
+                "id": 351818,
+                "title": "Solarium",
+                "description": "Yellow Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/6fbc004e18e5a76cef2b685d923d31c5bb455dca.gif",
+                "cost": "3000",
+                "created": 1732357222,
+                "updated": 1734542445
+            },
+            {
+                "id": 351810,
+                "title": "Seas Incarnadine",
+                "description": "Red Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/75fd5a85427ef7be36ad9c14d190c4085c0c6304.gif",
+                "cost": "3000",
+                "created": 1732250868,
+                "updated": 1734542445
+            },
+            {
+                "id": 351807,
+                "title": "Gonna Be Popular!",
+                "description": "Pink Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/a1c52271528faf60c884ce2d4478bbf4a1e8ba4a.gif",
+                "cost": "3000",
+                "created": 1732249962,
+                "updated": 1734542445
+            },
+            {
+                "id": 351803,
+                "title": "A Forest Stroll",
+                "description": "Green Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/3e7f9ae3bee158c913a41e31cedf99de1a4e1c85.gif",
+                "cost": "3000",
+                "created": 1732249574,
+                "updated": 1734542445
+            },
+            {
+                "id": 351799,
+                "title": "Teal The Show",
+                "description": "Teal Avatar",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/79a27f031cf5a9f80418c1caba098a5cc1af210b.gif",
+                "cost": "3000",
+                "created": 1732249457,
+                "updated": 1734542445
+            },
+            {
+                "id": 351798,
+                "title": "Fiery Insights",
+                "description": "Fiery Insights",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/038e3a067cb5f1b1d65c95676711156aa9343b9a.gif",
+                "cost": "3000",
+                "created": 1721173819,
+                "updated": 1734542445
             }
         ],
         "mini": [
@@ -25623,6 +25677,69 @@
                 "cost": "2000",
                 "created": 1731452692,
                 "updated": 1734491967
+            },
+            {
+                "id": 351816,
+                "title": "Dandelion",
+                "description": "Yellow MiniBG",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/ee138ad35aea17ad422840050217fdac87a317fe.webm",
+                "cost": "2000",
+                "created": 1732356283,
+                "updated": 1734542445
+            },
+            {
+                "id": 351819,
+                "title": "Blue MiniBG",
+                "description": "Blue MiniBG",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/6dbd7613966c58c9a45b30d1a4571ee4341d34cf.webm",
+                "cost": "2000",
+                "created": 1732314988,
+                "updated": 1734542445
+            },
+            {
+                "id": 351801,
+                "title": "Mint",
+                "description": "Teal MiniBG",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/3b1475fb2b24d6fe7a7d58f2237d5db31732171b.webm",
+                "cost": "2000",
+                "created": 1732248657,
+                "updated": 1734542445
+            },
+            {
+                "id": 351813,
+                "title": "Rose",
+                "description": "Red MiniBG",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/39a3418e9eba900efdddabfff65fc3d1649d1bf1.webm",
+                "cost": "2000",
+                "created": 1732248406,
+                "updated": 1734542445
+            },
+            {
+                "id": 351814,
+                "title": "Orchid",
+                "description": "Pink MiniBG",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/7d0d97531b6962e36606834c42e4d039fe1df50a.webm",
+                "cost": "2000",
+                "created": 1732248252,
+                "updated": 1734542445
+            },
+            {
+                "id": 351806,
+                "title": "Sage",
+                "description": "Green MiniBG",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/caf147975ee153a8adf0e3868bf3052689691fc7.webm",
+                "cost": "2000",
+                "created": 1732248021,
+                "updated": 1734542445
+            },
+            {
+                "id": 351796,
+                "title": "Tangor",
+                "description": "Tangor",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/4f9ca7e503292efe8e4ae3cd90d222a57a660eb0.webm",
+                "cost": "2000",
+                "created": 1721173650,
+                "updated": 1734542445
             }
         ],
         "background": [
@@ -35758,6 +35875,60 @@
                 "cost": "2000",
                 "created": 1731452565,
                 "updated": 1734491967
+            },
+            {
+                "id": 351815,
+                "title": "Saffron Author",
+                "description": "Yellow Background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/f8e89656f006542109a58124c17bcdd153ea2fd5.webm",
+                "cost": "2000",
+                "created": 1732356310,
+                "updated": 1734542445
+            },
+            {
+                "id": 351800,
+                "title": "Turquoise Author",
+                "description": "Teal Profile Background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/8dbda422e992ffb62697e87cb1bbf342720332fe.webm",
+                "cost": "2000",
+                "created": 1732247743,
+                "updated": 1734542445
+            },
+            {
+                "id": 351811,
+                "title": "Scarlet Author",
+                "description": "Red Background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/863f387d3e0e4884e56843256304e9deb3514d5f.webm",
+                "cost": "2000",
+                "created": 1732247547,
+                "updated": 1734542445
+            },
+            {
+                "id": 351808,
+                "title": "Fuchsia Author",
+                "description": "Pink Background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/3de29356457c06dce502bd5d584b413d2fae34fd.webm",
+                "cost": "2000",
+                "created": 1732247427,
+                "updated": 1734542445
+            },
+            {
+                "id": 351804,
+                "title": "Verdant Author",
+                "description": "Green Background",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/a8a6cd140d3a13cad67e4a29d57f673174872573.webm",
+                "cost": "2000",
+                "created": 1732247246,
+                "updated": 1734542445
+            },
+            {
+                "id": 351795,
+                "title": "Amber Author",
+                "description": "Amber Author",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/0ddbbc907139be2021ee6746ca789085e9246b25.webm",
+                "cost": "2000",
+                "created": 1721173526,
+                "updated": 1734542445
             }
         ],
         "frame": [
@@ -47509,6 +47680,60 @@
                 "cost": "2000",
                 "created": 1731450782,
                 "updated": 1734491967
+            },
+            {
+                "id": 351817,
+                "title": "Gold Standard",
+                "description": "Yellow Profile Frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/8db3a2aa129cbd84732240094e0912054c77497c.png",
+                "cost": "2000",
+                "created": 1732357261,
+                "updated": 1734542445
+            },
+            {
+                "id": 351797,
+                "title": "Orange You Glad?",
+                "description": "Orange Ya Glad",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/8a1203d1cf28d778b30563ec6866a969399c7fef.png",
+                "cost": "2000",
+                "created": 1732249381,
+                "updated": 1734542445
+            },
+            {
+                "id": 351802,
+                "title": "A Big Teal",
+                "description": "Teal Frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/229471a958e217c80b5564c10318eac571172293.png",
+                "cost": "2000",
+                "created": 1732249328,
+                "updated": 1734542445
+            },
+            {
+                "id": 351812,
+                "title": "Seeing Red",
+                "description": "Red Frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/4cfa3e9a5456b714823c1173d7ebd0615ae57910.png",
+                "cost": "2000",
+                "created": 1732249068,
+                "updated": 1734542445
+            },
+            {
+                "id": 351809,
+                "title": "Pretty In Pink",
+                "description": "Pink Frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/fab29ed092351dab05bf530ee3d9e67198385af1.png",
+                "cost": "2000",
+                "created": 1732248947,
+                "updated": 1734542445
+            },
+            {
+                "id": 351805,
+                "title": "Going Green",
+                "description": "Green Frame",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/917950/2d06959b7f2017995753609c94cf4a56c432df57.png",
+                "cost": "2000",
+                "created": 1732248737,
+                "updated": 1734542445
             }
         ],
         "sticker": [
@@ -63813,6 +64038,12 @@
             78780,
             78779,
             78778,
+            351818,
+            351810,
+            351807,
+            351803,
+            351799,
+            351798,
             351692,
             351691,
             351690,
@@ -65837,6 +66068,13 @@
             78807,
             78806,
             78805,
+            351819,
+            351816,
+            351814,
+            351813,
+            351806,
+            351801,
+            351796,
             351643,
             351431,
             350251,
@@ -66739,6 +66977,12 @@
             78811,
             78810,
             78809,
+            351815,
+            351811,
+            351808,
+            351804,
+            351800,
+            351795,
             351693,
             351689,
             351688,
@@ -67879,6 +68123,12 @@
             78767,
             78766,
             78765,
+            351817,
+            351812,
+            351809,
+            351805,
+            351802,
+            351797,
             351651,
             351650,
             351579,
