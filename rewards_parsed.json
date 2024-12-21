@@ -1,10 +1,10 @@
 {
     "count": {
-        "avatar": 2025,
+        "avatar": 2030,
         "mini": 908,
         "background": 1160,
-        "frame": 1342,
-        "sticker": 1734,
+        "frame": 1343,
+        "sticker": 1739,
         "gameprofile": 100,
         "keyboard": 8,
         "startup": 33
@@ -17757,6 +17757,51 @@
                 "cost": "3000",
                 "created": 1733403286,
                 "updated": 1734690471
+            },
+            {
+                "id": 352429,
+                "title": "Power Surge",
+                "description": "Power Surge",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2507950/f60248b8dfdc8973308aac3d0f6df74e4375e412.gif",
+                "cost": "3000",
+                "created": 1733215485,
+                "updated": 1734702623
+            },
+            {
+                "id": 352428,
+                "title": "Rope Descent",
+                "description": "Rope Descent",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2507950/1d08c97ae5c41c48354e4328c5e2d2d951a805c9.gif",
+                "cost": "3000",
+                "created": 1733215382,
+                "updated": 1734702623
+            },
+            {
+                "id": 352427,
+                "title": "Medical Duty",
+                "description": "Medical Duty",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2507950/13017f2b0316352b13f4e0f4b686a8fd0157c5e5.gif",
+                "cost": "3000",
+                "created": 1733215322,
+                "updated": 1734702623
+            },
+            {
+                "id": 352422,
+                "title": "Ignite",
+                "description": "Ignite",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2507950/a3bf59e982fd28c19e501b9024a48bb5de968f3f.gif",
+                "cost": "3000",
+                "created": 1733215255,
+                "updated": 1734702623
+            },
+            {
+                "id": 352409,
+                "title": "Cowcat",
+                "description": "Cowcat",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2507950/17f4474b137df104d02f45c8edb8c8130dae4a4d.gif",
+                "cost": "3000",
+                "created": 1733215115,
+                "updated": 1734702623
             }
         ],
         "mini": [
@@ -47932,6 +47977,15 @@
                 "cost": "2000",
                 "created": 1733403093,
                 "updated": 1734690471
+            },
+            {
+                "id": 352426,
+                "title": "Delta Force",
+                "description": "Delta Force",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2507950/2f18eab87a99138ae72ff8e8c22108efa72cd3d8.png",
+                "cost": "2000",
+                "created": 1734082236,
+                "updated": 1734702623
             }
         ],
         "sticker": [
@@ -63109,6 +63163,51 @@
                 "cost": "1000",
                 "created": 1733402345,
                 "updated": 1734690471
+            },
+            {
+                "id": 352430,
+                "title": "You do you",
+                "description": "You do you",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2507950/9811b4bf99b6b4d1f867bb3e878af267196ca6a7.png",
+                "cost": "1000",
+                "created": 1733218104,
+                "updated": 1734702623
+            },
+            {
+                "id": 352425,
+                "title": "Love hug",
+                "description": "Love hug",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2507950/8ffd82e43e920aee5947ec1d54f418cf9845c4eb.png",
+                "cost": "1000",
+                "created": 1733211708,
+                "updated": 1734702623
+            },
+            {
+                "id": 352424,
+                "title": "Wat?",
+                "description": "Wat?",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2507950/0d02bfa9aeb867218403d39966c39f4c18194b93.png",
+                "cost": "1000",
+                "created": 1733211543,
+                "updated": 1734702623
+            },
+            {
+                "id": 352423,
+                "title": "LMAO",
+                "description": "LMAO",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2507950/d50a996ef61cab5302869f05d9045a209700f1be.png",
+                "cost": "1000",
+                "created": 1733211429,
+                "updated": 1734702623
+            },
+            {
+                "id": 352421,
+                "title": "Look at u",
+                "description": "Look at u",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2507950/25359a30400ff90cd1803da8707af1011ca321dc.png",
+                "cost": "1000",
+                "created": 1733210641,
+                "updated": 1734702623
             }
         ],
         "gameprofile": [
@@ -64335,6 +64434,11 @@
             78780,
             78779,
             78778,
+            352429,
+            352428,
+            352427,
+            352422,
+            352409,
             352337,
             352335,
             352332,
@@ -68437,6 +68541,7 @@
             78767,
             78766,
             78765,
+            352426,
             352340,
             352339,
             352257,
@@ -69865,6 +69970,11 @@
             78770,
             78769,
             78768,
+            352430,
+            352425,
+            352424,
+            352423,
+            352421,
             352338,
             352336,
             352334,
