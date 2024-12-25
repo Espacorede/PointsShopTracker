@@ -4,7 +4,7 @@
         "mini": 908,
         "background": 1160,
         "frame": 1343,
-        "sticker": 1739,
+        "sticker": 1740,
         "gameprofile": 100,
         "keyboard": 8,
         "startup": 33
@@ -63208,6 +63208,15 @@
                 "cost": "1000",
                 "created": 1733210641,
                 "updated": 1734702623
+            },
+            {
+                "id": 353006,
+                "title": "Skinner Box",
+                "description": "Skinnerbox",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1057780/50543dd5767b17246a281f16916de00a3deb2f63.png",
+                "cost": "1000",
+                "created": 1734225811,
+                "updated": 1735105686
             }
         ],
         "gameprofile": [
@@ -69970,6 +69979,7 @@
             78770,
             78769,
             78768,
+            353006,
             352430,
             352425,
             352424,
