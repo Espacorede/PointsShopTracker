@@ -3,7 +3,7 @@
         "avatar": 2040,
         "mini": 911,
         "background": 1163,
-        "frame": 1343,
+        "frame": 1347,
         "sticker": 1752,
         "gameprofile": 100,
         "keyboard": 8,
@@ -48130,6 +48130,42 @@
                 "cost": "2000",
                 "created": 1734082236,
                 "updated": 1734702623
+            },
+            {
+                "id": 354206,
+                "title": "Vermilion Frame",
+                "description": "ssc-fr4",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3237680/b39e44a7d4084899d649cfd5b6bb847b28858310.png",
+                "cost": "2000",
+                "created": 1734354547,
+                "updated": 1735894366
+            },
+            {
+                "id": 354205,
+                "title": "Violet Frame",
+                "description": "sscfr3",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3237680/db1644beff8b937f87cffa63417cbc585f042e9c.png",
+                "cost": "2000",
+                "created": 1734354406,
+                "updated": 1735894366
+            },
+            {
+                "id": 354204,
+                "title": "Sapphire Frame",
+                "description": "sscfr2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3237680/db0a9f6727f9570cea1cb4c2a9db176848603772.png",
+                "cost": "2000",
+                "created": 1734354347,
+                "updated": 1735894366
+            },
+            {
+                "id": 354203,
+                "title": "Navy Frame",
+                "description": "sscfr1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3237680/05c856e78e04a5d9e27253ff517aa02335a53eb2.png",
+                "cost": "2000",
+                "created": 1734354283,
+                "updated": 1735894366
             }
         ],
         "sticker": [
@@ -68818,6 +68854,10 @@
             78767,
             78766,
             78765,
+            354206,
+            354205,
+            354204,
+            354203,
             352426,
             352340,
             352339,
