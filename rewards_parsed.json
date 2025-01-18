@@ -1,9 +1,9 @@
 {
     "count": {
-        "avatar": 2059,
-        "mini": 914,
+        "avatar": 2060,
+        "mini": 916,
         "background": 1174,
-        "frame": 1357,
+        "frame": 1360,
         "sticker": 1773,
         "gameprofile": 100,
         "keyboard": 8,
@@ -18063,6 +18063,15 @@
                 "cost": "3000",
                 "created": 1735205570,
                 "updated": 1736737876
+            },
+            {
+                "id": 357270,
+                "title": "KILL KNIGHT AVATAR",
+                "description": "KILL KNIGHT AVATAR",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2694420/290d5a6a58056312b1bafc7c2cee37a0c848b396.gif",
+                "cost": "3000",
+                "created": 1734651301,
+                "updated": 1737087111
             }
         ],
         "mini": [
@@ -26163,6 +26172,24 @@
                 "cost": "2000",
                 "created": 1736889790,
                 "updated": 1737025415
+            },
+            {
+                "id": 357258,
+                "title": "ABYSSAL SUFFERANCE",
+                "description": "ABYSSAL SUFFERANCE",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2694420/d8970d37b756485564edfc2d5c30c6e636802c85.webm",
+                "cost": "2000",
+                "created": 1736335879,
+                "updated": 1737087111
+            },
+            {
+                "id": 357271,
+                "title": "ABYSSAL ECLIPSE",
+                "description": "ABYSSAL ECLIPSE",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2694420/5b96aeadeeffa310b5df61a0c150176d7f09d40c.webm",
+                "cost": "2000",
+                "created": 1734651092,
+                "updated": 1737087111
             }
         ],
         "background": [
@@ -48553,6 +48580,33 @@
                 "cost": "2000",
                 "created": 1728483998,
                 "updated": 1737019124
+            },
+            {
+                "id": 357269,
+                "title": "SWORD FRAME",
+                "description": "SWORD FRAME",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2694420/62fdcffcbf7f1f96003bb77abfb1b17174eb2f1d.png",
+                "cost": "2000",
+                "created": 1734651280,
+                "updated": 1737087111
+            },
+            {
+                "id": 357268,
+                "title": "PISTOLS FRAME",
+                "description": "PISTOLS FRAME",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2694420/18457fff7164f6f3b867650ffdda28d229126960.png",
+                "cost": "2000",
+                "created": 1734651270,
+                "updated": 1737087111
+            },
+            {
+                "id": 357259,
+                "title": "ANGELIC FRAME",
+                "description": "ANGELIC FRAME",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2694420/9dbe2415ac5963ace33504fcad5879215434b804.png",
+                "cost": "2000",
+                "created": 1734651253,
+                "updated": 1737087111
             }
         ],
         "sticker": [
@@ -65307,6 +65361,7 @@
             78780,
             78779,
             78778,
+            357270,
             356330,
             356329,
             356328,
@@ -67376,6 +67431,8 @@
             78807,
             78806,
             78805,
+            357271,
+            357258,
             357104,
             357103,
             355732,
@@ -69463,6 +69520,9 @@
             78767,
             78766,
             78765,
+            357269,
+            357268,
+            357259,
             357101,
             357100,
             357099,
