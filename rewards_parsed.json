@@ -2,7 +2,7 @@
     "count": {
         "avatar": 2060,
         "mini": 916,
-        "background": 1174,
+        "background": 1175,
         "frame": 1360,
         "sticker": 1773,
         "gameprofile": 100,
@@ -36595,6 +36595,15 @@
                 "cost": "2000",
                 "created": 1736162327,
                 "updated": 1737087111
+            },
+            {
+                "id": 357755,
+                "title": "Kawaii Dave",
+                "description": "Kawaii Dave",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2624280/2a68460f18f3a2f5bf645c06c619c532b662ff5f.webm",
+                "cost": "2000",
+                "created": 1734665936,
+                "updated": 1737326548
             }
         ],
         "frame": [
@@ -68350,6 +68359,7 @@
             78811,
             78810,
             78809,
+            357755,
             357288,
             357287,
             357286,
