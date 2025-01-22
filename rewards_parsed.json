@@ -3,7 +3,7 @@
         "avatar": 2063,
         "mini": 916,
         "background": 1175,
-        "frame": 1360,
+        "frame": 1364,
         "sticker": 1773,
         "gameprofile": 100,
         "keyboard": 8,
@@ -48643,6 +48643,42 @@
                 "cost": "2000",
                 "created": 1734651253,
                 "updated": 1737087111
+            },
+            {
+                "id": 355983,
+                "title": "Orange Hex",
+                "description": "Orange Hex",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3099230/cf509d2b92ebb4d9417d838b8d48821fbf452bef.png",
+                "cost": "0",
+                "created": 1737408596,
+                "updated": 1737408605
+            },
+            {
+                "id": 355982,
+                "title": "Green Hex",
+                "description": "Green Hex",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3099230/a57a68d98ac1ba1463a819befd5a30f548e71ec9.png",
+                "cost": "0",
+                "created": 1737408596,
+                "updated": 1737408605
+            },
+            {
+                "id": 358138,
+                "title": "Boom",
+                "description": "Boom",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/552990/e439a9af08d4450bf234302efcaff24acad3fbf3.png",
+                "cost": "2000",
+                "created": 1737125019,
+                "updated": 1737469504
+            },
+            {
+                "id": 357999,
+                "title": "While true",
+                "description": "While true",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2421410/de23c04da838d9a547826e63c63d40a6e31fb425.png",
+                "cost": "2000",
+                "created": 1736498072,
+                "updated": 1737424644
             }
         ],
         "sticker": [
@@ -69560,6 +69596,8 @@
             78767,
             78766,
             78765,
+            358138,
+            357999,
             357269,
             357268,
             357259,
@@ -69571,6 +69609,8 @@
             357062,
             357060,
             357059,
+            355983,
+            355982,
             355727,
             355726,
             354206,
