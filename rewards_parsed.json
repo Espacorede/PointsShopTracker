@@ -1,10 +1,10 @@
 {
     "count": {
         "avatar": 2063,
-        "mini": 916,
+        "mini": 919,
         "background": 1175,
         "frame": 1364,
-        "sticker": 1773,
+        "sticker": 1781,
         "gameprofile": 100,
         "keyboard": 8,
         "startup": 33
@@ -26217,6 +26217,33 @@
                 "cost": "2000",
                 "created": 1734651092,
                 "updated": 1737087111
+            },
+            {
+                "id": 358559,
+                "title": "GBTW Hero Profile",
+                "description": "GBTW Profile A",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3029540/6e031a34db6066f036efb2cc415327ab84d3d5c7.webm",
+                "cost": "2000",
+                "created": 1737348522,
+                "updated": 1737614944
+            },
+            {
+                "id": 358560,
+                "title": "GBTW Jet Profile",
+                "description": "GBTW Jet Profile",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3029540/15f1d946d820e34053d03b2094de890b5d631ac7.webm",
+                "cost": "2000",
+                "created": 1737348475,
+                "updated": 1737614944
+            },
+            {
+                "id": 358561,
+                "title": "GBTW Aircraft Carrier Profile",
+                "description": "GBTW Aircraft Carrier Profile",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3029540/791e837efc155a806e575c9d78b81b6b1dd3d199.webm",
+                "cost": "2000",
+                "created": 1737348439,
+                "updated": 1737614944
             }
         ],
         "background": [
@@ -64207,6 +64234,78 @@
                 "cost": "1000",
                 "created": 1734650544,
                 "updated": 1737087111
+            },
+            {
+                "id": 358706,
+                "title": "Kakkoi Wave",
+                "description": "kakkoiwave",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1865670/0b88085b44655af2eb914c73d1bcd095d82612ab.png",
+                "cost": "1000",
+                "created": 1737434001,
+                "updated": 1737645518
+            },
+            {
+                "id": 358716,
+                "title": "Kakkoi Suku",
+                "description": "Kakkoisuku",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1865670/e9b7d2bdd6700c3f357729a2c76532aca13d300a.png",
+                "cost": "1000",
+                "created": 1737079479,
+                "updated": 1737645518
+            },
+            {
+                "id": 358700,
+                "title": "Kakkoi Firing",
+                "description": "kakkoifiring",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1865670/74b2babc53b7d7b7bc3c7b04163d266fbd2f6370.png",
+                "cost": "1000",
+                "created": 1736802122,
+                "updated": 1737645518
+            },
+            {
+                "id": 358563,
+                "title": "GBTW Sleeping",
+                "description": "GBTW Sleeping",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3029540/b89d7a262a27479aeef65eb442cdd87393683ea5.png",
+                "cost": "1000",
+                "created": 1736743301,
+                "updated": 1737614944
+            },
+            {
+                "id": 358562,
+                "title": "GBTW Happy",
+                "description": "GBTW Happy",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3029540/354913eb723f7db6aae4804499b7d5f5350aaa95.png",
+                "cost": "1000",
+                "created": 1736743281,
+                "updated": 1737614944
+            },
+            {
+                "id": 358545,
+                "title": "GBTW Angry",
+                "description": "GBTW Angry",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3029540/49ddbe9128e90c0d6fb53dda6b5f806776fa9f4e.png",
+                "cost": "1000",
+                "created": 1736742861,
+                "updated": 1737614944
+            },
+            {
+                "id": 358702,
+                "title": "Enoko Dance",
+                "description": "enoko",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1865670/6d0d0418a0cb85a53514cf1742a2a4010359ed07.png",
+                "cost": "1000",
+                "created": 1736405887,
+                "updated": 1737645518
+            },
+            {
+                "id": 358701,
+                "title": "Mad Alice Stare",
+                "description": "madealicestare",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1865670/1ed69990f282754af9b35f7c36c0b231e05520dd.png",
+                "cost": "1000",
+                "created": 1736405348,
+                "updated": 1737645518
             }
         ],
         "gameprofile": [
@@ -67506,6 +67605,9 @@
             78807,
             78806,
             78805,
+            358561,
+            358560,
+            358559,
             357271,
             357258,
             357104,
@@ -71046,6 +71148,14 @@
             78770,
             78769,
             78768,
+            358716,
+            358706,
+            358702,
+            358701,
+            358700,
+            358563,
+            358562,
+            358545,
             357267,
             357266,
             357265,
