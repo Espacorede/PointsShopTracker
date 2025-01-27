@@ -4,7 +4,7 @@
         "mini": 919,
         "background": 1175,
         "frame": 1364,
-        "sticker": 1781,
+        "sticker": 1784,
         "gameprofile": 100,
         "keyboard": 8,
         "startup": 33
@@ -64306,6 +64306,33 @@
                 "cost": "1000",
                 "created": 1736405348,
                 "updated": 1737645518
+            },
+            {
+                "id": 358215,
+                "title": "Steam Snake 2025",
+                "description": "Steam Snake 2025",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3472480/6d85c9f022bd793f463bd11ae562672011ca32c7.png",
+                "cost": "0",
+                "created": 1737660164,
+                "updated": 1737660213
+            },
+            {
+                "id": 358214,
+                "title": "Red Envelope 2025",
+                "description": "Red Envelope 2025",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3472480/91d1ff722ca7355ba2a17fe1dfdcadb757930cf1.png",
+                "cost": "0",
+                "created": 1737660144,
+                "updated": 1737660213
+            },
+            {
+                "id": 358216,
+                "title": "Happy New Year 2025",
+                "description": "Happy New Year 2025",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3472480/60c14c21844bd94d7cf7b8e351eb73601722c293.png",
+                "cost": "0",
+                "created": 1737660039,
+                "updated": 1737660213
             }
         ],
         "gameprofile": [
@@ -71156,6 +71183,9 @@
             358563,
             358562,
             358545,
+            358216,
+            358215,
+            358214,
             357267,
             357266,
             357265,
