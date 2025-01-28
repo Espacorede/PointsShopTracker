@@ -1,10 +1,10 @@
 {
     "count": {
-        "avatar": 2063,
-        "mini": 919,
-        "background": 1175,
-        "frame": 1364,
-        "sticker": 1784,
+        "avatar": 2068,
+        "mini": 922,
+        "background": 1178,
+        "frame": 1368,
+        "sticker": 1795,
         "gameprofile": 100,
         "keyboard": 8,
         "startup": 33
@@ -18099,6 +18099,51 @@
                 "cost": "3000",
                 "created": 1736474024,
                 "updated": 1737424644
+            },
+            {
+                "id": 359479,
+                "title": "LIL REAPER",
+                "description": "LIL REAPER",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/994b53ce94600ddbddf4bfb2387f4ca0cfe1ca6d.gif",
+                "cost": "3000",
+                "created": 1735032467,
+                "updated": 1737997618
+            },
+            {
+                "id": 359478,
+                "title": "PELE",
+                "description": "PELE",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/a4d266b9bd1db6a8a4c72fef478368cec61bcfd7.gif",
+                "cost": "3000",
+                "created": 1735032417,
+                "updated": 1737997618
+            },
+            {
+                "id": 359477,
+                "title": "MINITAUR",
+                "description": "MINITAUR",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/7eaf41c69e8fcfb9d0aa7f0222baf57d9231a909.gif",
+                "cost": "3000",
+                "created": 1735032364,
+                "updated": 1737997618
+            },
+            {
+                "id": 359476,
+                "title": "DUSA",
+                "description": "DUSA",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/490d21051a62e5a1fe8e93d6c486632c5eba90d1.gif",
+                "cost": "3000",
+                "created": 1735032310,
+                "updated": 1737997618
+            },
+            {
+                "id": 359475,
+                "title": "ASH",
+                "description": "ANIMATED AVATAR",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/05a652f608de6c5ef8655952008942f0c2e8d0c0.gif",
+                "cost": "3000",
+                "created": 1734946970,
+                "updated": 1737997618
             }
         ],
         "mini": [
@@ -26244,6 +26289,33 @@
                 "cost": "2000",
                 "created": 1737348439,
                 "updated": 1737614944
+            },
+            {
+                "id": 359488,
+                "title": "THUNDER BACKGROUND",
+                "description": "THUNDER BACKGROUND",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/424e2cbfb612453728b0311a1d48fd7aeec3eb03.webm",
+                "cost": "2000",
+                "created": 1736848476,
+                "updated": 1737997618
+            },
+            {
+                "id": 359487,
+                "title": "FIRE BACKGROUND",
+                "description": "FIRE BACKGROUND",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/c9b1db0e9715c49d731ca939a814a053337ad8d8.webm",
+                "cost": "2000",
+                "created": 1736848393,
+                "updated": 1737997618
+            },
+            {
+                "id": 359485,
+                "title": "ARROW BACKGROUND",
+                "description": "ARROW BACKGROUND",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/cc112973bfcc7fcd42bfe962a601c9c29fed5ff6.webm",
+                "cost": "2000",
+                "created": 1736848241,
+                "updated": 1737997618
             }
         ],
         "background": [
@@ -36658,6 +36730,33 @@
                 "cost": "2000",
                 "created": 1734665936,
                 "updated": 1737326548
+            },
+            {
+                "id": 359490,
+                "title": "THUNDER BACKGROUND",
+                "description": "THUNDER BACKGROUND",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/91e27133498374032d13e8784ce9532abe7cac5c.webm",
+                "cost": "2000",
+                "created": 1736848770,
+                "updated": 1737997618
+            },
+            {
+                "id": 359489,
+                "title": "FIRE BACKGROUND",
+                "description": "FIRE BACKGROUND",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/71fc47faf8a24ddc4f191ddca9e5743161f4abd6.webm",
+                "cost": "2000",
+                "created": 1736848677,
+                "updated": 1737997618
+            },
+            {
+                "id": 359486,
+                "title": "ARROW BACKGROUND",
+                "description": "ARROW BACKGROUND",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/4d1b44781966e25236e36c91530de78d0eb593a6.webm",
+                "cost": "2000",
+                "created": 1736848595,
+                "updated": 1737997618
             }
         ],
         "frame": [
@@ -48706,6 +48805,42 @@
                 "cost": "2000",
                 "created": 1736498072,
                 "updated": 1737424644
+            },
+            {
+                "id": 359483,
+                "title": "PINK_FLAME",
+                "description": "PINK_FLAME",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/03752cfffc9e55445b9c9aef299ed991ff54e18b.png",
+                "cost": "2000",
+                "created": 1735032729,
+                "updated": 1737997618
+            },
+            {
+                "id": 359482,
+                "title": "ORANGE_FLAME",
+                "description": "ORANGE_FLAME",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/255e2c98f443a035ddd555d55c3694b332bb0cbb.png",
+                "cost": "2000",
+                "created": 1735032689,
+                "updated": 1737997618
+            },
+            {
+                "id": 359481,
+                "title": "GREEN_FLAME",
+                "description": "GREEN_FLAME",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/65d13254ff2faedf353ef78b02c320fb9921d578.png",
+                "cost": "2000",
+                "created": 1735032639,
+                "updated": 1737997618
+            },
+            {
+                "id": 359480,
+                "title": "BLUE_FLAME",
+                "description": "BLUE_FLAME",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/1ef4776b39ff5ca26da9fb8d7564d06ea479c5b6.png",
+                "cost": "2000",
+                "created": 1735032577,
+                "updated": 1737997618
             }
         ],
         "sticker": [
@@ -64333,6 +64468,105 @@
                 "cost": "0",
                 "created": 1737660039,
                 "updated": 1737660213
+            },
+            {
+                "id": 359593,
+                "title": "Ronin",
+                "description": "[TEST]Ronin",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1025600/249f89d7fe23f0e87e3b3eb163e5821730b2367e.png",
+                "cost": "1000",
+                "created": 1737387940,
+                "updated": 1738028863
+            },
+            {
+                "id": 359492,
+                "title": "VERY SAD BLINX",
+                "description": "SAD BLINX",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/02451b3d31db13bce316d5f67989a4b7a081698e.png",
+                "cost": "1000",
+                "created": 1737035320,
+                "updated": 1737997618
+            },
+            {
+                "id": 359494,
+                "title": "IZZY XOXO",
+                "description": "LOVING IZZY",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/48e60a602a9d19c54141bbc5b4e3584900189f44.png",
+                "cost": "1000",
+                "created": 1737035203,
+                "updated": 1737997618
+            },
+            {
+                "id": 359495,
+                "title": "TRY AGAIN PUNZEL",
+                "description": "LOSER PUNZEL",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/fa94c6f839e10fed83984c04bd238738e7b98b8f.png",
+                "cost": "1000",
+                "created": 1737035130,
+                "updated": 1737997618
+            },
+            {
+                "id": 359498,
+                "title": "HAPPY MINITAUR",
+                "description": "LOL MINITAUR",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/fd6e76adec7d4ffdd85b329500a0bfe68747b60f.png",
+                "cost": "1000",
+                "created": 1737035020,
+                "updated": 1737997618
+            },
+            {
+                "id": 359496,
+                "title": "REAPER UGLY CRY",
+                "description": "CRYING REAPER",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/08200cbe38b04eac1832a540fff86451ab5d4d83.png",
+                "cost": "1000",
+                "created": 1737034844,
+                "updated": 1737997618
+            },
+            {
+                "id": 359484,
+                "title": "ANANSI EUREKA",
+                "description": "CLEVER ANANSI",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/98f8da00ab0c254ee946788698cfbf6773b072e0.png",
+                "cost": "1000",
+                "created": 1737034753,
+                "updated": 1737997618
+            },
+            {
+                "id": 359499,
+                "title": "MEI HEM IRONIC CLAP",
+                "description": "CLAPPING MEI HEM",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/56071dd9c19ef8cbba20c6c48471ad1b64b65f0f.png",
+                "cost": "1000",
+                "created": 1737034614,
+                "updated": 1737997618
+            },
+            {
+                "id": 359493,
+                "title": "CHTULY RAGE",
+                "description": "Animated stickers",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/3ea0909b7fd51759e2943c4d36fe7e2b5ddd68bd.png",
+                "cost": "1000",
+                "created": 1737034218,
+                "updated": 1737997618
+            },
+            {
+                "id": 359491,
+                "title": "PLAYFUL ASH",
+                "description": "ASH WINK",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/3c833278e57c09aafc8e4410c5c387c7653461e4.png",
+                "cost": "1000",
+                "created": 1737034010,
+                "updated": 1737997618
+            },
+            {
+                "id": 359497,
+                "title": "FUMING MARDI",
+                "description": "FUMING MARDI",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2887910/f9efe87f3c9174a914d42c341d5c6da1f00702a7.png",
+                "cost": "1000",
+                "created": 1737033952,
+                "updated": 1737997618
             }
         ],
         "gameprofile": [
@@ -65559,6 +65793,11 @@
             78780,
             78779,
             78778,
+            359479,
+            359478,
+            359477,
+            359476,
+            359475,
             357996,
             357994,
             357270,
@@ -67632,6 +67871,9 @@
             78807,
             78806,
             78805,
+            359488,
+            359487,
+            359485,
             358561,
             358560,
             358559,
@@ -68554,6 +68796,9 @@
             78811,
             78810,
             78809,
+            359490,
+            359489,
+            359486,
             357755,
             357288,
             357287,
@@ -69725,6 +69970,10 @@
             78767,
             78766,
             78765,
+            359483,
+            359482,
+            359481,
+            359480,
             358138,
             357999,
             357269,
@@ -71175,6 +71424,17 @@
             78770,
             78769,
             78768,
+            359593,
+            359499,
+            359498,
+            359497,
+            359496,
+            359495,
+            359494,
+            359493,
+            359492,
+            359491,
+            359484,
             358716,
             358706,
             358702,
