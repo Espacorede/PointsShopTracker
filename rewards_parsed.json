@@ -2,7 +2,7 @@
     "count": {
         "avatar": 2080,
         "mini": 928,
-        "background": 1183,
+        "background": 1187,
         "frame": 1374,
         "sticker": 1801,
         "gameprofile": 100,
@@ -36964,6 +36964,42 @@
                 "cost": "2000",
                 "created": 1737583977,
                 "updated": 1738069166
+            },
+            {
+                "id": 360902,
+                "title": "Control Animated Back",
+                "description": "sdaback2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3244640/56a6b4034a57cb6c25da1b4bf3e774915f4e67de.webm",
+                "cost": "2000",
+                "created": 1738063887,
+                "updated": 1738575040
+            },
+            {
+                "id": 360901,
+                "title": "Planet Animated Back",
+                "description": "sdaback1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3244640/5fe86dd20c812638af2ed4bfc321b8441d9b1814.webm",
+                "cost": "2000",
+                "created": 1738063728,
+                "updated": 1738575040
+            },
+            {
+                "id": 360935,
+                "title": "Camera Animated Back",
+                "description": "siaback2",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3026440/519f99ce5f0988b6ea2b6a7d7a213ea65046beb3.webm",
+                "cost": "2000",
+                "created": 1737123102,
+                "updated": 1738579309
+            },
+            {
+                "id": 360934,
+                "title": "Film Animated Back",
+                "description": "siaback1",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3026440/97cc76fa9ee519f07b0deeb70bd73cbbaa010286.webm",
+                "cost": "2000",
+                "created": 1737123013,
+                "updated": 1738579309
             }
         ],
         "frame": [
@@ -69138,6 +69174,10 @@
             78811,
             78810,
             78809,
+            360935,
+            360934,
+            360902,
+            360901,
             359688,
             359687,
             359686,
