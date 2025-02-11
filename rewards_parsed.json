@@ -2,7 +2,7 @@
     "count": {
         "avatar": 2223,
         "mini": 938,
-        "background": 1193,
+        "background": 1195,
         "frame": 1431,
         "sticker": 1888,
         "gameprofile": 101,
@@ -38431,6 +38431,24 @@
                 "cost": "2000",
                 "created": 1733796714,
                 "updated": 1738821659
+            },
+            {
+                "id": 362587,
+                "title": "Gold Trophy",
+                "description": "Gold Trophy",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2173760/d82e95e90991dade4d7d701430a81f6ee892226e.webm",
+                "cost": "2000",
+                "created": 1734106740,
+                "updated": 1739104749
+            },
+            {
+                "id": 362586,
+                "title": "Platinum Trophy",
+                "description": "Platinum Trophy",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2173760/bd9aaa90062e5f1582b55aaa0eae7104c785a858.webm",
+                "cost": "2000",
+                "created": 1734106567,
+                "updated": 1739104749
             }
         ],
         "frame": [
@@ -72072,6 +72090,8 @@
             78811,
             78810,
             78809,
+            362587,
+            362586,
             361819,
             361538,
             361256,
