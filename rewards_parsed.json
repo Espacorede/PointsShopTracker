@@ -1,9 +1,9 @@
 {
     "count": {
-        "avatar": 2223,
-        "mini": 938,
+        "avatar": 2226,
+        "mini": 940,
         "background": 1195,
-        "frame": 1431,
+        "frame": 1434,
         "sticker": 1888,
         "gameprofile": 101,
         "keyboard": 8,
@@ -19539,6 +19539,33 @@
                 "cost": "3000",
                 "created": 1733807927,
                 "updated": 1738821659
+            },
+            {
+                "id": 362089,
+                "title": "Dynamic Duo",
+                "description": "Dynamic Duo",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3099250/3601f7e64c317b6406f0711a0ae73411eaf67e09.gif",
+                "cost": "0",
+                "created": 1738869624,
+                "updated": 1739210797
+            },
+            {
+                "id": 362087,
+                "title": "Player Pair",
+                "description": "Player Pair",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3099250/8039f07e5ae30686faf326e2498da4945721af6d.gif",
+                "cost": "0",
+                "created": 1738869624,
+                "updated": 1739210797
+            },
+            {
+                "id": 362306,
+                "title": "Smushi Jumping Jacks",
+                "description": "Smushi Jumping Jacks",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1740300/a8679e103bdf76fbb50b2b7df10becad965a115d.gif",
+                "cost": "3000",
+                "created": 1738164961,
+                "updated": 1738947741
             }
         ],
         "mini": [
@@ -27855,6 +27882,24 @@
                 "cost": "2000",
                 "created": 1733812256,
                 "updated": 1738821659
+            },
+            {
+                "id": 362304,
+                "title": "Smushi In Spring",
+                "description": "Smushi In Spring",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1740300/cc1a0d067d86e703db944e0bde6280623d3d591e.webm",
+                "cost": "2000",
+                "created": 1738166430,
+                "updated": 1738947741
+            },
+            {
+                "id": 362305,
+                "title": "Smushi The Explorer",
+                "description": "Smushi The Explorer",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1740300/efae6c3054edbb69b7273ba4c0886aa2d88b0c7e.webm",
+                "cost": "2000",
+                "created": 1738165819,
+                "updated": 1738947741
             }
         ],
         "background": [
@@ -51100,6 +51145,33 @@
                 "cost": "2000",
                 "created": 1733735894,
                 "updated": 1738821659
+            },
+            {
+                "id": 362088,
+                "title": "Co-Op Controllers",
+                "description": "Co-Op Controllers",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/3099250/b4e53692d7c0f5ffcd20c61a3c6528d97cc6be7e.png",
+                "cost": "0",
+                "created": 1738869624,
+                "updated": 1739210797
+            },
+            {
+                "id": 362408,
+                "title": "Laureles",
+                "description": "Laureles",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2761100/bdfa8a83fbfeed4d1a01228adb6c032552cc59fa.png",
+                "cost": "2000",
+                "created": 1738686571,
+                "updated": 1738993643
+            },
+            {
+                "id": 362407,
+                "title": "Guarda Pampa",
+                "description": "Guarda Pampa",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2761100/59fc914cde1f8d621ef23f852b74db1f945d1494.png",
+                "cost": "2000",
+                "created": 1738341574,
+                "updated": 1738993643
             }
         ],
         "sticker": [
@@ -68916,6 +68988,9 @@
             78780,
             78779,
             78778,
+            362306,
+            362089,
+            362087,
             361955,
             361954,
             361953,
@@ -71149,6 +71224,8 @@
             78807,
             78806,
             78805,
+            362305,
+            362304,
             361820,
             361539,
             361268,
@@ -73281,6 +73358,9 @@
             78767,
             78766,
             78765,
+            362408,
+            362407,
+            362088,
             361739,
             361738,
             361737,
