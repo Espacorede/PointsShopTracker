@@ -3,7 +3,7 @@
         "avatar": 2226,
         "mini": 940,
         "background": 1195,
-        "frame": 1434,
+        "frame": 1441,
         "sticker": 1888,
         "gameprofile": 101,
         "keyboard": 8,
@@ -51172,6 +51172,69 @@
                 "cost": "2000",
                 "created": 1738341574,
                 "updated": 1738993643
+            },
+            {
+                "id": 363423,
+                "title": "Dark",
+                "description": "Dark",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1270580/e67976abe756dd999c92f81274b56f05cabecba0.png",
+                "cost": "2000",
+                "created": 1738697805,
+                "updated": 1739380944
+            },
+            {
+                "id": 363422,
+                "title": "Night Fog",
+                "description": "Night Fog",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1270580/0365f2525f270cf94e4ee915ab89323cbba01aaa.png",
+                "cost": "2000",
+                "created": 1738697771,
+                "updated": 1739380944
+            },
+            {
+                "id": 363420,
+                "title": "Lightning",
+                "description": "Lightning",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1270580/62acb2d87a32cb26082a8319bd588102b4e33322.png",
+                "cost": "2000",
+                "created": 1738697734,
+                "updated": 1739380944
+            },
+            {
+                "id": 363421,
+                "title": "Glint",
+                "description": "Glint",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1270580/db4e9527560b5e7a4ca9c615fd4128186f1cc450.png",
+                "cost": "2000",
+                "created": 1738366074,
+                "updated": 1739380944
+            },
+            {
+                "id": 363419,
+                "title": "Candle",
+                "description": "Candle",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1270580/50af36e72e7a9fc771914dc925cbf9c9e1888667.png",
+                "cost": "2000",
+                "created": 1738364851,
+                "updated": 1739380944
+            },
+            {
+                "id": 363418,
+                "title": "Snake",
+                "description": "Snake",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1270580/7f0ca312e1bf28100d78771ecb40fa0a4f7090de.png",
+                "cost": "2000",
+                "created": 1738353544,
+                "updated": 1739380944
+            },
+            {
+                "id": 363758,
+                "title": "Demonic Face",
+                "description": "Demonic Face",
+                "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/2790000/491da046a5e7f3cc773a740a78a452875d047ca5.png",
+                "cost": "2000",
+                "created": 1736589260,
+                "updated": 1739456342
             }
         ],
         "sticker": [
@@ -73358,6 +73421,13 @@
             78767,
             78766,
             78765,
+            363758,
+            363423,
+            363422,
+            363421,
+            363420,
+            363419,
+            363418,
             362408,
             362407,
             362088,
